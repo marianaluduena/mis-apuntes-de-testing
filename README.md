@@ -13,7 +13,7 @@ Los resúmenes los trato de armar de una forma muy visual y clara para que sea m
 ## Tabla de contenidos
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
-- [Testing al grano: Apuntes]()
+- [Testing al grano: Apuntes](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#testing-al-grano-apuntes-%EF%B8%8F)
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
