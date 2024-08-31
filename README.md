@@ -12,10 +12,10 @@ Los resúmenes los trato de armar de una forma muy visual y clara para que sea m
 
 ## Tabla de contenidos
 
-- [Sobre éste repo](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing)
+- [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
 - [Testing al grano: Apuntes]()
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
-- [Contacto]()
+- [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
 ## Testing al grano: Apuntes 📓✏️
 
@@ -30,7 +30,7 @@ Los resúmenes los trato de armar de una forma muy visual y clara para que sea m
 
 ### 💻 Mi LinkedIn: 
 
-Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
+Checkeá mi [perfil de LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
 
 ### 🔎 Mis sitios web:
 
