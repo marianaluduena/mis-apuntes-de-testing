@@ -60,11 +60,11 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 
 .2) Clonar el repositorio.
 
-3) Crear una nueva rama.
+.3) Crear una nueva rama.
 
-4) Realizar los cambios.
+.4) Realizar los cambios.
 
-5) Enviar un Pull Request.
+.5) Enviar un Pull Request.
 
 
 ## Plantillas:
