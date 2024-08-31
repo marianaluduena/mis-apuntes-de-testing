@@ -6,7 +6,7 @@
 
 Hola a todos y bienvenidos! 😊
 
-Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de Testing al grano de Upex en Youtube (dejo el link en la sección **Testing al grano**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con Testing al grano, pero van a ir incorporándose con el tiempo **Postman** y otras tools. 
+Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de Upex en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman** y otras tools. 
 
 Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, terminología muy técnica que puede marear / confundir si se es nuevo en éste mundillo IT, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. Los estoy armando en **Canva**, pero si alguien quiere contribuir en éste repo y conoce otro método / programa que sea mucho más rápido y fácil armar resúmenes es más que bienvenido! 🤗😁 
 
@@ -20,7 +20,7 @@ Los resúmenes los trato de armar de una forma muy visual y clara para que sea m
 
 ## Testing al grano: Apuntes 📓✏️
 
-### Mirá todas las clases [acá]([Youtube](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--))
+### Mirá todas las clases de Youtube [acá](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
 
 
 ### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing) + PDF [Terminología IT con sus roles](https://drive.google.com/file/d/1x7d4KaNUgMduM_EnLtBeg5nomgPziiR4/view?usp=sharing)
