@@ -12,14 +12,39 @@ Los resúmenes los trato de armar de una forma muy visual y clara para que sea m
 
 ## Tabla de contenidos
 
-- [Sobre éste repo]()
-- [Testing al grano: Apuntes]
+- [Sobre éste repo](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing)
+- [Testing al grano: Apuntes]()
 - [Cómo contribuir]
 - [Contacto]()
 
-## Testing al grano: Apuntes
+## Testing al grano: Apuntes 📓✏️
 
-### [Clase 1:](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing) 
+### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing) 
+
+
+## Cómo contribuir 🎁
+
+ 
+
+## Contacto 💻
+
+### 💻 Mi LinkedIn: 
+
+Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
+
+### 🔎 Mis sitios web:
+
+Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
+
+Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) para visitar mi sitio web de **Desarrollo Web**.
+
+
+### Mi Mail:
+
+marianabelenluduena@gmail.com
+
+
+
 
 
 
