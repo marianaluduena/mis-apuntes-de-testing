@@ -39,7 +39,7 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 
 ### Por favor tener en cuenta los siguientes puntos:
 
-⋅⋅*Agregar una nueva sección en caso de considerarlo necesario (por ejemplo, un nuevo curso o tema como **Postman**) con una breve descripción sobre cuál es su contenido o tema principal.
+..* Agregar una nueva sección en caso de considerarlo necesario (por ejemplo, un nuevo curso o tema como **Postman**) con una breve descripción sobre cuál es su contenido o tema principal.
 
 ⋅⋅*Agregar la nueva sección a la tabla de contenidos con su link
 
@@ -56,15 +56,15 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 
 ### Pasos:
 
-.1) Crear un Fork de éste repo.
+1) Crear un Fork de éste repo.
 
-.2) Clonar el repositorio.
+2) Clonar el repositorio.
 
-.3) Crear una nueva rama.
+3) Crear una nueva rama.
 
-.4) Realizar los cambios.
+4) Realizar los cambios.
 
-.5) Enviar un Pull Request.
+5) Enviar un Pull Request.
 
 
 ## Plantillas:
