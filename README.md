@@ -10,7 +10,7 @@ Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo
 
 Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, terminología muy técnica que puede marear / confundir si se es nuevo en éste mundillo IT, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** para reemplazar las diapositivas, pero lleva su tiempo a veces armarlos en Canva. Lo que me gusta de ésas plantillas es que son muy visuales, lo que facilita la retención de la info), pero puede estar muy limitado el espacio para poder armar los esquemas. Van a encontrar las plantillas que estoy usando en la sección **Plantillas de Canva**
 
-Si alguien quiere contribuir en éste repo y conoce otro método / programa que sea mucho más rápido y fácil armar resúmenes es más que bienvenido! 🤗😁 
+Si alguien quiere contribuir en éste repo y conoce otro método / programa que sea mucho más rápido y fácil armar resúmenes es más que bienvenido! 🤗😁 La info sobre cómo contribuir la van a encontrar en la sección **Cómo contribuir**.
 
 ## Tabla de contenidos
 
@@ -31,9 +31,10 @@ Si alguien quiere contribuir en éste repo y conoce otro método / programa que 
 ### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing) + PDF [Terminología IT con sus roles](https://drive.google.com/file/d/1x7d4KaNUgMduM_EnLtBeg5nomgPziiR4/view?usp=sharing)
 
 
+
 ## Cómo contribuir 🫶
 
-Obvio que todos pueden contribuir! Si están viendo las clases de **Testing al grano** o de algún otro curso y quiere aportar algo es más que bienvenido! 
+Obvio que todos pueden contribuir! Si están viendo las clases de **Testing al grano** o de algún otro curso y quieren aportar algo es más que bienvenido! 
 Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA testing** mi recomendación es empezar por los cursos de **Upex** que tienen publicados en su canal de Youtube (que son varios), pero pueden ser cursos de otras fuentes también.
 
 
@@ -74,6 +75,7 @@ Dejo el link a las plantillas de Canva que estoy usando [acá](https://docs.goog
 
 ## Invitame un cafecito ☕
 
+Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 
 ## Contacto 💻
