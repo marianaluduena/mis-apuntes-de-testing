@@ -14,7 +14,7 @@ Los resúmenes los trato de armar de una forma muy visual y clara para que sea m
 
 - [Sobre éste repo](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing)
 - [Testing al grano: Apuntes]()
-- [Cómo contribuir]
+- [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Contacto]()
 
 ## Testing al grano: Apuntes 📓✏️
