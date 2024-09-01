@@ -16,6 +16,7 @@ Si alguien quiere contribuir en éste repo y conoce otro método / programa que 
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
 - [Testing al grano: Apuntes](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#testing-al-grano-apuntes-%EF%B8%8F)
+- [Diccionario]()
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Plantillas](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#plantillas)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
@@ -29,6 +30,29 @@ Si alguien quiere contribuir en éste repo y conoce otro método / programa que 
 
 
 ### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing) + PDF [Terminología IT con sus roles](https://drive.google.com/file/d/1x7d4KaNUgMduM_EnLtBeg5nomgPziiR4/view?usp=sharing)
+
+
+## Diccionario 📖
+
+Ésta sección es una lista de términos técnicos en inglés usandos en el rubro IT.
+
+- **PO**: Product Owner (Propietario del producto) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
+  
+- **PM**: Product Manager (Gerente de producto) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
+
+-**Dev**: Developer (Desarrollador)
+
+- **UI/UX**: Diseñador de interfaz de usuario.
+  
+- **TAE**: Test Automation Tester es un **QA** especializado en automatizar las pruebas.
+  
+- **BA**: Business Analyst se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
+  
+- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá)(https://www.atlassian.com/es/agile)
+
+- **Scrum**: modelo 
+
+- **Kanban**:
 
 
 
@@ -53,6 +77,8 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 - Asegurarse de poner las carpetas a compartir en modo público, de modo que si estan guardadas en Google Drive se pueda acceder al material mediante el link.
 
 - Constatar previamente a añadir un nuevo curso de que el tema o herramienta no se encuentre ya agregado en éste repo, para evitar temas / cursos duplicados.
+  
+- Asegurarse de que el curso que se quiera agregar a éste repo sea **gratis**, así es accesible para todos 😉
 
 
 ### Pasos:
