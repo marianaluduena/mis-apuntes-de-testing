@@ -16,7 +16,7 @@ Si alguien quiere contribuir en éste repo y conoce otro método / programa que 
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
 - [Testing al grano: Apuntes](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#testing-al-grano-apuntes-%EF%B8%8F)
-- [Diccionario]()
+- [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Plantillas](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#plantillas)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
