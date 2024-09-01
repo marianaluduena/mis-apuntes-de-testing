@@ -40,7 +40,7 @@ Si alguien quiere contribuir en éste repo y conoce otro método / programa que 
   
 - **PM**: Product Manager (Gerente de producto) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
 
--**Dev**: Developer (Desarrollador)
+- **Dev**: Developer (Desarrollador)
 
 - **UI/UX**: Diseñador de interfaz de usuario.
   
