@@ -8,9 +8,9 @@ Hola a todos y bienvenidos! 😊
 
 Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de **Upex** en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman** y otras tools. 
 
-Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, terminología muy técnica que puede marear / confundir si se es nuevo en éste mundillo IT, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** para reemplazar las diapositivas, pero lleva su tiempo a veces armarlos en Canva. Lo que me gusta de ésas plantillas es que son muy visuales, lo que facilita la retención de la info), pero puede estar muy limitado el espacio para poder armar los esquemas. Van a encontrar las plantillas que estoy usando en la sección **Plantillas de Canva**
+Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** (van a encontrar las plantillas que estoy usando en la sección **Plantillas de Canva**)
 
-Si alguien quiere contribuir en éste repo y conoce otro método / programa que sea mucho más rápido y fácil armar resúmenes es más que bienvenido! 🤗😁 La info sobre cómo contribuir la van a encontrar en la sección **Cómo contribuir**.
+Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
 
 ## Tabla de contenidos
 
@@ -26,10 +26,12 @@ Si alguien quiere contribuir en éste repo y conoce otro método / programa que 
 
 **Testing al grano** es un curso en Youtube de **Upex Galaxy** que arranca totalmente desde 0 y nos introduce al mundo del testing de software empezando con conceptos básicos, terminologías usadas en IT y roles, volviéndose poco a poco más práctico.
 
-### Mirá todas las clases de Youtube [acá](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
+### Mirá todas las clases de Youtube [acá](https://www.youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
 
 
-### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing) + PDF [Terminología IT con sus roles](https://drive.google.com/file/d/1x7d4KaNUgMduM_EnLtBeg5nomgPziiR4/view?usp=sharing)
+- ### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing)
+
+- ### 📁[Clase 2](https://docs.google.com/presentation/d/1SdfR-mikV2hf22-DmoD53yFGF3rfvDiT0sq9sYgbTnY/edit?usp=sharing)
 
 
 ## Diccionario 📖
@@ -64,6 +66,9 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 
 ### Por favor tener en cuenta los siguientes puntos:
 
+
+- Asegurarse de que el curso que se quiera agregar a éste repo sea **gratis**, así es accesible para todos 😉
+
 - Agregar una nueva sección en caso de considerarlo necesario (por ejemplo, un nuevo curso o tema como **Postman**) con una breve descripción sobre cuál es su contenido o tema principal.
 
 - Agregar la nueva sección a la tabla de contenidos con su link
@@ -78,7 +83,6 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 
 - Constatar previamente a añadir un nuevo curso de que el tema o herramienta no se encuentre ya agregado en éste repo, para evitar temas / cursos duplicados.
   
-- Asegurarse de que el curso que se quiera agregar a éste repo sea **gratis**, así es accesible para todos 😉
 
 
 ### Pasos:
