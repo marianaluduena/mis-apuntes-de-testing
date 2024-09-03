@@ -6,11 +6,16 @@
 
 Hola a todos y bienvenidos! 😊
 
-Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de **Upex** en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman** y otras tools. 
+Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de **Upex** en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman**, tipos de testing específicos sobre cómo hacer Pruebas Exploratorias, tools y más. 
 
-Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** (van a encontrar las plantillas que estoy usando en la sección **Plantillas de Canva**)
+Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
+
+### Tools que uso para armar los apuntes
+
+Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** para armar las diapositivas.
 
 Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
+
 
 ## Tabla de contenidos
 
@@ -18,7 +23,6 @@ Si alguien quiere contribuir en éste repo la info la van a encontrar en la secc
 - [Testing al grano: Apuntes](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#testing-al-grano-apuntes-%EF%B8%8F)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
-- [Plantillas](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#plantillas)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
@@ -98,22 +102,17 @@ Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA
 5) Enviar un Pull Request.
 
 
-## Plantillas:
-
-Dejo el link a las plantillas de Canva que estoy usando [acá](https://docs.google.com/document/d/1cJ8uANlStl7j1B4jn4D4hjdrszcKTdSY873eQzN1g24/edit?usp=sharing) para poder ver, editar y agregar a las diapositivas.
-
-
 ## Invitame un cafecito ☕
 
 Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
 
-## Contacto 💻
+## Contacto 🤝
 
 ### 💻 Mi LinkedIn: 
 
-Checkeá mi [perfil de LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
+Seguime en mi [LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
 
 ### 🔎 Mis sitios web:
 
@@ -122,7 +121,7 @@ Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Te
 Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) para visitar mi sitio web de **Desarrollo Web**.
 
 
-### Mi Mail:
+### 📧 Mi Mail:
 
 marianabelenluduena@gmail.com
 
