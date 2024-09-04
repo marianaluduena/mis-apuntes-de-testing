@@ -12,7 +12,7 @@ Hola a todos y bienvenidos! 😊
 
 ### Tools que uso para armar los apuntes
 
-- Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** para armar las diapositivas.
+- Los estoy armando usando las presentaciones de  **Canva**.
 
 - Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
 
@@ -33,9 +33,9 @@ Hola a todos y bienvenidos! 😊
 ### Mirá todas las clases de Youtube [acá](https://www.youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
 
 
-- ### 📁[Clase 1](https://docs.google.com/presentation/d/1ea7F9ruopVAOKxEVXu3aWLJcQON-xdNN3YoozYIOsuI/edit?usp=sharing)
+- ### 📁[Clase 1](https://drive.google.com/file/d/15P_G134IirilEZuszL16TtvetsAml-VF/view?usp=sharing)
 
-- ### 📁[Clase 2](https://docs.google.com/presentation/d/1SdfR-mikV2hf22-DmoD53yFGF3rfvDiT0sq9sYgbTnY/edit?usp=sharing)
+- ### 📁[Clase 2](https://drive.google.com/file/d/1MP54Woz_HAgA5hKHY_IA8TdQA0KjwHSp/view?usp=sharing)
 
 
 ## Diccionario 📖
