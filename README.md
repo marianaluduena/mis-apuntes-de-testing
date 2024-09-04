@@ -6,15 +6,15 @@
 
 Hola a todos y bienvenidos! 😊
 
-Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de **Upex** en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman**, tipos de testing específicos sobre cómo hacer Pruebas Exploratorias, tools y más. 
+- Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de **Upex** en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman**, tipos de testing específicos sobre cómo hacer Pruebas Exploratorias, tools y más. 
 
-Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
+- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
 
 ### Tools que uso para armar los apuntes
 
-Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** para armar las diapositivas.
+- Los estoy armando usando las presentaciones de **Google Drive** y con **Canva** para armar las diapositivas.
 
-Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
+- Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
 
 
 ## Tabla de contenidos
@@ -112,18 +112,18 @@ Si el material que subo te resultó útil y querés invitarme un cafecito bienve
 
 ### 💻 Mi LinkedIn: 
 
-Seguime en mi [LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
+- Seguime en [LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
 
 ### 🔎 Mis sitios web:
 
-Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
+- Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
 
-Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) para visitar mi sitio web de **Desarrollo Web**.
+- Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) para visitar mi sitio web de **Desarrollo Web**.
 
 
 ### 📧 Mi Mail:
 
-marianabelenluduena@gmail.com
+- marianabelenluduena@gmail.com
 
 
 
