@@ -33,9 +33,9 @@ Hola a todos y bienvenidos! 😊
 ### Mirá todas las clases de Youtube [acá](https://www.youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
 
 
-- ### 📁[Clase 1](https://drive.google.com/file/d/15P_G134IirilEZuszL16TtvetsAml-VF/view?usp=sharing)
+- ### 📁[Clase 1](https://drive.google.com/file/d/15P_G134IirilEZuszL16TtvetsAml-VF/view?usp=drive_link)
 
-- ### 📁[Clase 2](https://drive.google.com/file/d/1MP54Woz_HAgA5hKHY_IA8TdQA0KjwHSp/view?usp=sharing)
+- ### 📁[Clase 2](https://drive.google.com/file/d/1MP54Woz_HAgA5hKHY_IA8TdQA0KjwHSp/view?usp=drive_link)
 
 
 ## Diccionario 📖
