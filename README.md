@@ -6,7 +6,9 @@
 
 Hola a todos y bienvenidos! 😊
 
-- Mis Apuntes de Testing son resúmenes visuales que voy armando a medida que sigo el curso gratis de **Testing al grano** de **Upex** en Youtube (dejo el link en la sección **Testing al grano: Apuntes**). La idea es poder compartir ésta info con ustedes a medida que voy viendo las clases de su canal para que les sirva como guías de estudio y le llegue a más gente! Va a empezar con **Testing al grano**, pero van a ir incorporándose con el tiempo **Postman**, tipos de testing específicos sobre cómo hacer Pruebas Exploratorias, tools y más. 
+- **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy investigando conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
+
+- Se van a abordar temas varios como tipos de testing y profundizar en cada uno, metódos para hacer testing Exploratorio, **APIs**, herramientas como **Postman**, **JMeter**, etc.
 
 - Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
 
@@ -20,22 +22,22 @@ Hola a todos y bienvenidos! 😊
 ## Tabla de contenidos
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
-- [Testing al grano: Apuntes](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#testing-al-grano-apuntes-%EF%B8%8F)
+- [Tipos de Testing]()
+- [Testing Exploratorio]()
+- [Técnicas de Testing: Particiones de Equivalencia]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
-## Testing al grano: Apuntes 📓✏️
-
-**Testing al grano** es un curso en Youtube de **Upex Galaxy** que arranca totalmente desde 0 y nos introduce al mundo del testing de software empezando con conceptos básicos, terminologías usadas en IT y roles, volviéndose poco a poco más práctico.
-
-### Mirá todas las clases de Youtube [acá](https://www.youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
+## Tipos de Testing: Apuntes 📓✏️
 
 
-- ### 📁[Clase 1](https://drive.google.com/file/d/15P_G134IirilEZuszL16TtvetsAml-VF/view?usp=drive_link)
 
-- ### 📁[Clase 2](https://drive.google.com/file/d/1MP54Woz_HAgA5hKHY_IA8TdQA0KjwHSp/view?usp=drive_link)
+
+- ### 📁[¿Cuáles son los Tipos de Testing?]()
+
+- ### 📁[¿Cuáles son los Niveles de Testing?]()
 
 
 ## Diccionario 📖
@@ -63,9 +65,6 @@ Hola a todos y bienvenidos! 😊
 
 
 ## Cómo contribuir 🫶
-
-Obvio que todos pueden contribuir! Si están viendo las clases de **Testing al grano** o de algún otro curso y quieren aportar algo es más que bienvenido! 
-Por ser éste un repo más orientado a principiantes, trainees y juniors de **QA testing** mi recomendación es empezar por los cursos de **Upex** que tienen publicados en su canal de Youtube (que son varios), pero pueden ser cursos de otras fuentes también.
 
 
 ### Por favor tener en cuenta los siguientes puntos:
@@ -117,13 +116,6 @@ Si el material que subo te resultó útil y querés invitarme un cafecito bienve
 ### 🔎 Mis sitios web:
 
 - Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
-
-- Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) para visitar mi sitio web de **Desarrollo Web**.
-
-
-### 📧 Mi Mail:
-
-- marianabelenluduena@gmail.com
 
 
 
