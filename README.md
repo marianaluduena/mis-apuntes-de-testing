@@ -6,7 +6,7 @@
 
 Hola a todos y bienvenidos! 😊
 
-- **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy investigando conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
+- **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
 
 - Se van a abordar temas varios como tipos de testing y profundizar en cada uno, metódos para hacer testing Exploratorio, **APIs**, herramientas como **Postman**, **JMeter**, etc.
 
@@ -14,7 +14,7 @@ Hola a todos y bienvenidos! 😊
 
 ### Tools que uso para armar los apuntes
 
-- Los estoy armando usando las presentaciones de  **Canva**.
+- Los estoy armando con **Canva**.
 
 - Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
 
@@ -22,7 +22,7 @@ Hola a todos y bienvenidos! 😊
 ## Tabla de contenidos
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
-- [Tipos de Testing]()
+- [Preguntas Técnicas de Entrevista]()
 - [Testing Exploratorio]()
 - [Técnicas de Testing: Particiones de Equivalencia]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
@@ -30,14 +30,18 @@ Hola a todos y bienvenidos! 😊
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
-## Tipos de Testing: Apuntes 📓✏️
+## Preguntas Técnicas de Entrevista: Apuntes 📓✏️
 
-
+Ésta sección aborda posibles preguntas típicas que pueden surgir en una entrevista laboral sobre temas básicos / conceptos de Testing.
 
 
 - ### 📁[¿Cuáles son los Tipos de Testing?]()
 
 - ### 📁[¿Cuáles son los Niveles de Testing?]()
+
+- ### 📁[¿Cómo se clasifican las Pruebas?]()
+  
+- ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]()
 
 
 ## Diccionario 📖
@@ -69,10 +73,7 @@ Hola a todos y bienvenidos! 😊
 
 ### Por favor tener en cuenta los siguientes puntos:
 
-
-- Asegurarse de que el curso que se quiera agregar a éste repo sea **gratis**, así es accesible para todos 😉
-
-- Agregar una nueva sección en caso de considerarlo necesario (por ejemplo, un nuevo curso o tema como **Postman**) con una breve descripción sobre cuál es su contenido o tema principal.
+- Agregar una nueva sección en caso de considerarlo necesario (por ejemplo, tema como **Postman**) con una breve descripción sobre cuál es su contenido o tema principal.
 
 - Agregar la nueva sección a la tabla de contenidos con su link
 
@@ -84,7 +85,7 @@ Hola a todos y bienvenidos! 😊
 
 - Asegurarse de poner las carpetas a compartir en modo público, de modo que si estan guardadas en Google Drive se pueda acceder al material mediante el link.
 
-- Constatar previamente a añadir un nuevo curso de que el tema o herramienta no se encuentre ya agregado en éste repo, para evitar temas / cursos duplicados.
+- Constatar previamente a añadir un nuevo tema o herramienta que el tópico no se encuentre ya agregado en éste repo, para evitar temas duplicados.
   
 
 
@@ -113,7 +114,7 @@ Si el material que subo te resultó útil y querés invitarme un cafecito bienve
 
 - Seguime en [LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
 
-### 🔎 Mis sitios web:
+### 🔎 Mi sitio web:
 
 - Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
 
