@@ -42,6 +42,7 @@ Hola a todos y bienvenidos! 😊
 - ### 📁[¿Cómo se clasifican las Pruebas?]()
   
 - ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]()
+- Ver más info sobre el **SDLC** [acá](https://www.guru99.com/es/software-testing-life-cycle.html)
 
 
 ## Diccionario 📖
