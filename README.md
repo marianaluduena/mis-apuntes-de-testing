@@ -8,7 +8,7 @@ Hola a todos y bienvenidos! 😊
 
 - **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
 
-- Se van a abordar temas varios como tipos de testing y profundizar en cada uno, metódos para hacer testing Exploratorio, **APIs**, herramientas como **Postman**, **JMeter**, etc.
+- Se van a abordar temas varios como preguntas de entrevista, tipos de testing y profundizar en cada uno, metódos para hacer testing, **APIs**, etc.
 
 - Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
 
@@ -24,7 +24,7 @@ Hola a todos y bienvenidos! 😊
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
 - [Preguntas Técnicas de Entrevista]()
 - [Testing Exploratorio]()
-- [Técnicas de Testing: Particiones de Equivalencia]()
+- [Técnicas de Testing]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
