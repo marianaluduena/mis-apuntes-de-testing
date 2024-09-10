@@ -22,7 +22,7 @@ Hola a todos y bienvenidos! 😊
 ## Tabla de contenidos
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
-- [Preguntas Técnicas de Entrevista]()
+- [Preguntas de Entrevista Básicas de Testing]()
 - [Testing Exploratorio]()
 - [Técnicas de Testing]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
@@ -30,7 +30,7 @@ Hola a todos y bienvenidos! 😊
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
-## Preguntas Técnicas de Entrevista: Apuntes 📓✏️
+## Preguntas de Entrevista Básicas de Testing: Apuntes 📓✏️
 
 Ésta sección aborda posibles preguntas típicas que pueden surgir en una entrevista laboral sobre temas básicos / conceptos de Testing.
 
