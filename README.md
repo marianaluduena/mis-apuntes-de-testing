@@ -34,7 +34,8 @@ Hola a todos y bienvenidos! 😊
 
 Ésta sección aborda posibles preguntas típicas que pueden surgir en una entrevista laboral sobre temas básicos / conceptos de Testing.
 
-
+- ### 📁[¿Qué es el Testing de Software?]()
+  
 - ### 📁[¿Cuáles son los Tipos de Testing?]()
 
 - ### 📁[¿Cuáles son los Niveles de Testing?]()
@@ -43,6 +44,9 @@ Hola a todos y bienvenidos! 😊
   
 - ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]()
 - Ver más info sobre el **SDLC** [acá](https://www.guru99.com/es/software-testing-life-cycle.html)
+
+- ### 📁[¿Qué son las Pruebas de Caja Negra (Black Box Testing)?]()
+- Más información completa sobre **Caja Negra** en [éste link](https://www.zaptest.com/es/pruebas-de-caja-negra-que-son-tipos-procesos-enfoques-herramientas-y-mucho-mas)
 
 
 ## Diccionario 📖
