@@ -22,6 +22,7 @@ Hola a todos y bienvenidos! 😊
 ## Tabla de contenidos
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
+- [Pruebas de Software: Fundamentos]()
 - [Preguntas de Entrevista Básicas de Testing]()
 - [Testing Exploratorio]()
 - [Técnicas de Testing]()
@@ -29,6 +30,16 @@ Hola a todos y bienvenidos! 😊
 - [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
+
+## Pruebas de Software: Fundamentos 
+
+En ésta sección se tratan los fundamentos del testing, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
+
+
+- ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
+- 
+
+
 
 ## Preguntas de Entrevista Básicas de Testing: Apuntes 📓✏️
 
