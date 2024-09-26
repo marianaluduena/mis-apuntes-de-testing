@@ -22,8 +22,8 @@ Hola a todos y bienvenidos! 😊
 ## Tabla de contenidos
 
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
-- [Pruebas de Software: Fundamentos]()
-- [Preguntas de Entrevista Básicas de Testing]()
+- [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
+- [Preguntas de Entrevista Básicas de Testing](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-apuntes-%EF%B8%8F)
 - [Testing Exploratorio]()
 - [Técnicas de Testing]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
@@ -63,6 +63,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 ## Diccionario 📖
 
 Ésta sección es una lista de términos técnicos en inglés usandos en el rubro IT.
+
 
 - **PO**: Product Owner (Propietario del producto) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
   
