@@ -8,15 +8,9 @@ Hola a todos y bienvenidos! 😊
 
 - **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
 
-- Se van a abordar temas varios como preguntas de entrevista, tipos de testing y profundizar en cada uno, metódos para hacer testing, **APIs**, etc.
+- Se van a abordar temas varios como fundamentos del testing, preguntas de entrevista, tipos de testing y profundizar en cada uno, metódos para hacer testing, **APIs**, etc.
 
 - Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
-
-### Tools que uso para armar los apuntes
-
-- Los estoy armando con **Canva**.
-
-- Si alguien quiere contribuir en éste repo la info la van a encontrar en la sección **Cómo contribuir** 😁
 
 
 ## Tabla de contenidos
@@ -37,7 +31,8 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
-- 
+  
+- ### 📁[Error, Falla y Defecto: ¿Cuál es la diferencia?]
 
 
 
@@ -58,6 +53,10 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 - ### 📁[¿Qué son las Pruebas de Caja Negra (Black Box Testing)?]()
 - Más información completa sobre **Caja Negra** en [éste link](https://www.zaptest.com/es/pruebas-de-caja-negra-que-son-tipos-procesos-enfoques-herramientas-y-mucho-mas)
+
+- ### 📁[¿Cuál es el Ciclo de Vida de un Bug?]
+
+
 
 
 ## Diccionario 📖
