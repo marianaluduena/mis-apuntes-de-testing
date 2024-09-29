@@ -32,7 +32,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
   
-- ### 📁[Error, Falla y Defecto: ¿Cuál es la diferencia?]
+- ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?]
 
 
 
@@ -46,15 +46,15 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 - ### 📁[¿Cuáles son los Niveles de Testing?]()
 
-- ### 📁[¿Cómo se clasifican las Pruebas?]()
+- ### 📁[¿Cómo se clasifican las Pruebas?]() (Próximamente 🛠️)
   
 - ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]()
 - Ver más info sobre el **SDLC** [acá](https://www.guru99.com/es/software-testing-life-cycle.html)
 
-- ### 📁[¿Qué son las Pruebas de Caja Negra (Black Box Testing)?]()
+- ### 📁[¿Qué son las Pruebas de Caja Negra (Black Box Testing)?]() (Próximamente 🛠️)
 - Más información completa sobre **Caja Negra** en [éste link](https://www.zaptest.com/es/pruebas-de-caja-negra-que-son-tipos-procesos-enfoques-herramientas-y-mucho-mas)
 
-- ### 📁[¿Cuál es el Ciclo de Vida de un Bug?]
+- ### 📁[¿Cuál es el Ciclo de Vida de un Bug?] (Próximamente 🛠️)
 
 
 
