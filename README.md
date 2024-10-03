@@ -20,7 +20,7 @@ Hola a todos y bienvenidos! 😊
 - [Preguntas de Entrevista Básicas de Testing](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-apuntes-%EF%B8%8F)
 - [Testing Exploratorio]()
 - [Técnicas de Testing]()
-- [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
+- [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario)
 -[Canales de Testing que recomiendo]()
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
