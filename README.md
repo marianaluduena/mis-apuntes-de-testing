@@ -21,7 +21,7 @@ Hola a todos y bienvenidos! 😊
 - [Testing Exploratorio]()
 - [Técnicas de Testing]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
-- [Cómo contribuir](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-contribuir-)
+-[Canales de Testing que recomiendo]()
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
 
@@ -32,7 +32,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
   
-- ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?]
+- ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?](https://drive.google.com/file/d/13NcrqbY2nEH9VoPeZzOsS8eCvtOHzbXN/view?usp=drive_link)
 
 
 
@@ -83,39 +83,23 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 - **Kanban**:
 
 
+## Canales de Testing que recomiendo
 
-## Cómo contribuir 🫶
+Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco la info para los apuntes.
 
 
-### Por favor tener en cuenta los siguientes puntos:
+- [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): Ingeniera de Software, QA, psicóloga y creadora de contenido. Explica conceptos de testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
 
-- Agregar una nueva sección en caso de considerarlo necesario (por ejemplo, tema como **Postman**) con una breve descripción sobre cuál es su contenido o tema principal.
 
-- Agregar la nueva sección a la tabla de contenidos con su link
-
-- Revisar la ortografía, puntos y comas.
-
-- Constatar que los links y URLs, en caso de haber, no estén rotos
-
-- En caso de haber un conflicto de fusión, por favor volver a rebase para solucionar los conflictos y luego enviar el Pull Request de nuevo.
-
-- Asegurarse de poner las carpetas a compartir en modo público, de modo que si estan guardadas en Google Drive se pueda acceder al material mediante el link.
-
-- Constatar previamente a añadir un nuevo tema o herramienta que el tópico no se encuentre ya agregado en éste repo, para evitar temas duplicados.
+- [Free Range Tester](https://www.youtube.com/@FreeRangeTesters):
   
 
+- [Full Advanced](https://www.youtube.com/@FullAdvanced):
 
-### Pasos:
 
-1) Crear un Fork de éste repo.
+- [Tester Testarudo](https://www.youtube.com/@TesterTestarudo):
 
-2) Clonar el repositorio.
 
-3) Crear una nueva rama.
-
-4) Realizar los cambios.
-
-5) Enviar un Pull Request.
 
 
 ## Invitame un cafecito ☕
@@ -123,6 +107,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
+
 
 ## Contacto 🤝
 
