@@ -78,9 +78,15 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
   
 - **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá)(https://www.atlassian.com/es/agile)
 
-- **Scrum**: modelo 
+- **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
 
-- **Kanban**:
+- **Kanban**: modelo de metodologia ágil basada sólo en tarjetas. Se diferenciade Scrum al no haber sprints.
+
+- **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
+
+- **AC**: Accentance Criteria (Criterios de aceptación) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+
+- **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
 
 
 ## Canales de Testing que recomiendo
