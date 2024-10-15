@@ -18,8 +18,6 @@ Hola a todos y bienvenidos! 😊
 - [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
 - [Preguntas de Entrevista Básicas de Testing](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-apuntes-%EF%B8%8F)
-- [Testing Exploratorio]()
-- [Técnicas de Testing]()
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
@@ -34,21 +32,23 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
   
 - ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?](https://drive.google.com/file/d/13NcrqbY2nEH9VoPeZzOsS8eCvtOHzbXN/view?usp=drive_link)
 
+- ### 📁[¿Qué significa Falso Positivo y Falso Negativo?]()
 
 
-## Preguntas de Entrevista Básicas de Testing: Apuntes 📓✏️
 
-Ésta sección aborda posibles preguntas típicas que pueden surgir en una entrevista laboral sobre temas básicos / conceptos de Testing.
+## Preguntas de Entrevista Básicas de Testing
 
-- ### 📁[¿Qué es el Testing de Software?]()
+Ésta sección aborda preguntas típicas que pueden surgir en una entrevista laboral sobre temas básicos / conceptos de Testing.
+
+- ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1eydEyPM2PXwB2wbCuzdjYwhH8IXObgpD/view?usp=drive_link)
   
-- ### 📁[¿Cuáles son los Tipos de Testing?]()
+- ### 📁[¿Cuáles son los Tipos de Testing?]() (Próximamente 🛠️)
 
-- ### 📁[¿Cuáles son los Niveles de Testing?]()
+- ### 📁[¿Cuáles son los Niveles de Testing?]() (Próximamente 🛠️)
 
 - ### 📁[¿Cómo se clasifican las Pruebas?]() (Próximamente 🛠️)
   
-- ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]()
+- ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]() (Próximamente 🛠️)
 - Ver más info sobre el **SDLC** [acá](https://www.guru99.com/es/software-testing-life-cycle.html)
 
 - ### 📁[¿Qué son las Pruebas de Caja Negra (Black Box Testing)?]() (Próximamente 🛠️)
