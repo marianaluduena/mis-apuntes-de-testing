@@ -102,7 +102,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
   
 - **BA**: Business Analyst se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
   
-- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá)(https://www.atlassian.com/es/agile)
+- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
 
 - **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
 
