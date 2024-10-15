@@ -6,6 +6,11 @@
   </div>
   
 <div align="center">
+
+<div>
+<img src="https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf" alt="Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio"/>
+</div>
+
   
 ![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
 </div>
