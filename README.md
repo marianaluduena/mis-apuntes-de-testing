@@ -23,7 +23,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 .............................................................................
 # Mis Apuntes de Testing
 
-![Cuaderno de apuntes](https://i.pinimg.com/736x/1b/34/c4/1b34c41c29c48bdb85daf7923e4c48a3.jpg)
+![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://drive.google.com/file/d/1Ohv-F8IAd3Ul39-oaJumbShzvIn2wdYa/view?usp=sharing)
 
 ## Sobre éste repo
 
