@@ -1,26 +1,27 @@
 
-<div id="header" align="center">
- 
-  </div>
+<div>
  
   <h1>
-  hey there
+  ¡Bienvenidos a Mis Apuntes de Testing!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-</div>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
 </div>
+  
+</div>
+
 
 
 .....................
-<div> 
+
   <h1>
     
  # Mis Apuntes de Testing
 
   </h1>
-</div>
 <div align="center">
   
 ![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
