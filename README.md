@@ -3,12 +3,13 @@
     
  # Mis Apuntes de Testing
 
-![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
+
 
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
 </div>
 
 ---
