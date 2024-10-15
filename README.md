@@ -1,7 +1,10 @@
 
   <h1>
-  ¡Hola a todos!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    
+ # Mis Apuntes de Testing
+
+![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
+
   </h1>
 </div>
 <div align="center">
@@ -21,9 +24,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 
 .............................................................................
-# Mis Apuntes de Testing
 
-![Hojas de apuntes, lápices de colores, café, computadora y birome sobre escritorio](https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf)
 
 ## Sobre éste repo
 
