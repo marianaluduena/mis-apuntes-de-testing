@@ -1,16 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/patricio-m-690b3729/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@thefreerangetester">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/RangeTester">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+
   <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt=""/>
   <h1>
   ¡Hola a todos!
@@ -32,35 +20,6 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
----
-
-### :hammer_and_wrench: Languages and Dev Tools :
-<div>
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  
-</div>
-
-### 🐞 Testing Tools :
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-
-</div>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">Mariana Ludueña
-<a href="https://linkedin.com/in/nkedin.com/in/mariana-ludueña-qa-tester-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mariana-ludueña-qa-tester-engineer/" height="30" width="40" /></a>
-</p>
 
 .............................................................................
 # Mis Apuntes de Testing
@@ -69,7 +28,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## Sobre éste repo
 
-Hola a todos y bienvenidos! 😊
+Bienvenidos! 😊
 
 - **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
 
