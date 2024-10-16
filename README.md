@@ -14,13 +14,16 @@
 
   
 ---
-### woman_technologist: Sobre mí :
+### 👩 : Sobre mí :
 
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
+Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programación y Desarrollo Web, encuentro fascinante el mundo del Testing!
 
 
-- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
+- :telescope: Creo en la capacitación y aprendizaje continuo sin importar cuántos años de experiencia se tengan. Siempre hay algo nuevo para aprender!
+
+
+- 🎼: En mi tiempo libre me gusta aprender música, tocar el piano y la guitarra!
+  
 
 - :mailbox:Seguime en LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
@@ -30,13 +33,13 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## Sobre éste repo
 
-Bienvenidos! 😊
-
 - **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
 
-- Se van a abordar temas varios como fundamentos del testing, preguntas de entrevista, tipos de testing y profundizar en cada uno, metódos para hacer testing, **APIs**, etc.
+- Se van a abordar temas varios como fundamentos del testing, preguntas de entrevista, tipos de testing, y se irán incorporando temas con el tiempo. 
 
-- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo. 
+- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo.
+
+- Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 😉
 
 
 ## Tabla de contenidos
