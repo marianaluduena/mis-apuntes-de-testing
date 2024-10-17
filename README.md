@@ -68,7 +68,7 @@ En esta sección se tratan los fundamentos del testing, muchos de los cuales son
 
 - ### 📁[¿Qué significa Falso Positivo y Falso Negativo?]()
 
-
+....................................................
 
 ## Preguntas de Entrevista Básicas de Testing (No Técnicas)
 
