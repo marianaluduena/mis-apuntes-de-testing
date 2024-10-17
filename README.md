@@ -37,6 +37,7 @@
 
 - Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 😉
 
+....................................................
 
 
 ## 👩 Sobre mí
@@ -52,6 +53,8 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programaci�
 
 - :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
+
+....................................................
 
 
 ## Pruebas de Software: Fundamentos 
@@ -89,7 +92,7 @@ Esta sección aborda preguntas generales no técnicas sobre temas básicos / con
 - ### 📁[¿Cuál es el Ciclo de Vida de un Bug?] (Próximamente 🛠️)
 
 
-
+....................................................
 
 ## Diccionario 📖
 
@@ -120,8 +123,9 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 - **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
 
+....................................................
 
-## Bugs descubiertos por casualidad
+## Bugs descubiertos por casualidad 
 
 Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing.
 Un tester tiene que tener la vista aguda para descubrir errores, pero a veces están delante nuestro!
@@ -130,6 +134,8 @@ Un tester tiene que tener la vista aguda para descubrir errores, pero a veces es
 
 - [Lista de impuestos municipales que no se muestra](https://drive.google.com/file/d/1hLyYqztAyDIiYdNOrxFJT6fhXcS3qI4t/view?usp=drive_link)
 
+
+....................................................
 
 ## Canales de Testing que recomiendo
 
@@ -148,13 +154,16 @@ Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco
 - [Tester Testarudo](https://www.youtube.com/@TesterTestarudo):
 
 
+....................................................
 
-
-## Invitame un cafecito ☕
+## Invitame un cafecito ☕💕
 
 Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
+
+
+....................................................
 
 
 ## Contacto 🤝
