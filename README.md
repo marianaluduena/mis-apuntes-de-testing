@@ -13,8 +13,20 @@
  </div>
 
   
----
-### 👩 : Sobre mí :
+
+## Sobre este repo
+
+- **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
+
+- Se van a abordar temas varios como fundamentos del testing, preguntas de entrevista, tipos de testing, y se irán incorporando temas con el tiempo. 
+
+- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo.
+
+- Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 😉
+
+
+
+## 👩 : Sobre mí :
 
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programación y Desarrollo Web, encuentro fascinante el mundo del Testing!
 
@@ -28,25 +40,13 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programaci�
 - :mailbox:Seguime en LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
 
-.............................................................................
-
-
-## Sobre éste repo
-
-- **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
-
-- Se van a abordar temas varios como fundamentos del testing, preguntas de entrevista, tipos de testing, y se irán incorporando temas con el tiempo. 
-
-- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo.
-
-- Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 😉
-
 
 ## Tabla de contenidos
 
-- [Sobre éste repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
+- [Sobre este repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
+- [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing?tab=readme-ov-file#--sobre-m%C3%AD-)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
-- [Preguntas de Entrevista Básicas de Testing](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-apuntes-%EF%B8%8F)
+- [Preguntas de Entrevista Básicas de Testing(No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-apuntes-%EF%B8%8F)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
@@ -54,7 +54,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programaci�
 
 ## Pruebas de Software: Fundamentos 
 
-En ésta sección se tratan los fundamentos del testing, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
+En esta sección se tratan los fundamentos del testing, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
 
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
@@ -65,9 +65,10 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 
 
-## Preguntas de Entrevista Básicas de Testing
+## Preguntas de Entrevista Básicas de Testing (No Técnicas)
 
-Ésta sección aborda preguntas típicas que pueden surgir en una entrevista laboral sobre temas básicos / conceptos de Testing.
+Esta sección aborda preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
+
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1eydEyPM2PXwB2wbCuzdjYwhH8IXObgpD/view?usp=drive_link)
   
@@ -90,7 +91,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 ## Diccionario 📖
 
-Ésta sección es una lista de términos técnicos en inglés usandos en el rubro IT.
+Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT.
 
 
 - **PO**: Product Owner (Propietario del producto) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
@@ -113,7 +114,7 @@ En ésta sección se tratan los fundamentos del testing, muchos de los cuales so
 
 - **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
 
-- **AC**: Accentance Criteria (Criterios de aceptación) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+- **AC**: Acceptance Criteria (Criterios de aceptación) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
 
 - **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
 
