@@ -23,7 +23,7 @@
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
-- [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
+- [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
 
   
 
