@@ -16,7 +16,7 @@
 # Tabla de contenidos
 
 - [Sobre este repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
-- [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing?tab=readme-ov-file#--sobre-m%C3%AD-)
+- [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#-sobre-m%C3%AD)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
 - [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-no-t%C3%A9cnicas)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario)
