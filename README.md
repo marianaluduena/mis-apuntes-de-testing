@@ -12,6 +12,18 @@
 </div>
  </div>
 
+
+# Tabla de contenidos
+
+- [Sobre este repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
+- [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing?tab=readme-ov-file#--sobre-m%C3%AD-)
+- [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
+- [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-no-t%C3%A9cnicas)
+- [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario)
+- [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
+- [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
+- [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto)
+
   
 
 ## Sobre este repo
@@ -26,7 +38,7 @@
 
 
 
-## 👩 : Sobre mí :
+## 👩 Sobre mí :
 
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programación y Desarrollo Web, encuentro fascinante el mundo del Testing!
 
@@ -34,10 +46,10 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programaci�
 - :telescope: Creo en la capacitación y aprendizaje continuo sin importar cuántos años de experiencia se tengan. Siempre hay algo nuevo para aprender!
 
 
-- 🎼: En mi tiempo libre me gusta aprender música, tocar el piano y la guitarra!
+- 🎼 En mi tiempo libre me gusta aprender música, tocar el piano y la guitarra!
   
 
-- :mailbox:Seguime en LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
+- :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
 
 
@@ -46,7 +58,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programaci�
 - [Sobre este repo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-%C3%A9ste-repo)
 - [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing?tab=readme-ov-file#--sobre-m%C3%AD-)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
-- [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-apuntes-%EF%B8%8F)
+- [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-no-t%C3%A9cnicas)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito-)
