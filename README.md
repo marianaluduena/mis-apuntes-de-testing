@@ -121,6 +121,16 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 - **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
 
 
+## Bugs descubiertos por casualidad
+
+Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing.
+Un tester tiene que tener la vista aguda para descubrir errores, pero a veces están delante nuestro!
+
+### Bugs Funcionales:
+
+- [Lista de impuestos municipales que no se muestra](https://drive.google.com/file/d/1hLyYqztAyDIiYdNOrxFJT6fhXcS3qI4t/view?usp=drive_link)
+
+
 ## Canales de Testing que recomiendo
 
 Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco la info para los apuntes.
