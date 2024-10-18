@@ -40,7 +40,7 @@
 ....................................................
 
 
-## 📚 Sobre mí
+## 📚 🖍️ :art 📘 Sobre mí
 
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programación y Desarrollo Web, encuentro fascinante el mundo del Testing!
 
