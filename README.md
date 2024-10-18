@@ -51,7 +51,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programaci�
 - 🎼 En mi tiempo libre me gusta aprender música, tocar el piano y la guitarra!
   
 
-- :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
+- 
 
 
 ....................................................
@@ -156,7 +156,7 @@ Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco
 
 ....................................................
 
-## Invitame un cafecito ☕💕
+## Invitame un cafecito ☕💕 <a href="https://www.animatedimages.org/cat-cups-676.htm"><img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0024.gif" border="0" alt="animated-cup-image-0024" /></a>
 
 Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
@@ -170,7 +170,7 @@ Si el material que subo te resultó útil y querés invitarme un cafecito bienve
 
 ### 💻 Mi LinkedIn: 
 
-- Seguime en [LinkedIn](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) ☺️
+- :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
 ### 🔎 Mi sitio web:
 
