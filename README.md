@@ -35,14 +35,16 @@
 
 - Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo.
 
-- Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 😉
+- Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 
+
+- También van a encontrar demos de bugs que encontré por casualidad en sitios que uso a diario 😉
 
 ....................................................
 
 
 ## 📚 🖍️ :art 📘 Sobre mí
 
-Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en Programación y Desarrollo Web, encuentro fascinante el mundo del Testing!
+Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, encuentro fascinante el mundo del **Testing**!
 
 
 - :telescope: Creo en la capacitación y aprendizaje continuo sin importar cuántos años de experiencia se tengan. Siempre hay algo nuevo para aprender!
@@ -134,6 +136,7 @@ Un tester tiene que tener la vista aguda para descubrir errores, pero a veces es
 
 - [Lista de impuestos municipales que no se muestra](https://drive.google.com/file/d/1hLyYqztAyDIiYdNOrxFJT6fhXcS3qI4t/view?usp=drive_link)
 
+- [Página No Encontrada](https://drive.google.com/file/d/1g3r8IAfQZn_EgstPDQQ3zBqwQBrTBSI6/view?usp=drive_link)
 
 ....................................................
 
@@ -142,11 +145,11 @@ Un tester tiene que tener la vista aguda para descubrir errores, pero a veces es
 Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco la info para los apuntes.
 
 
-- [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): Ingeniera de Software, QA, psicóloga y creadora de contenido. Explica conceptos de testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
+- [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): Ingeniera de Software, QA, Psicóloga y Youtuber. Explica conceptos de testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
 
 
-- [Free Range Tester](https://www.youtube.com/@FreeRangeTesters):
-  
+- [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Consultor, Ingeniero especializado en **Automation**, Coach y Youtuber. Pato habla de temas muy interesantes del mundo del testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
+Dejo el link a su web por si quieren conocer más: 
 
 - [Full Advanced](https://www.youtube.com/@FullAdvanced):
 
