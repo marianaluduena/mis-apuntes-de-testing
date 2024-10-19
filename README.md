@@ -42,7 +42,7 @@
 ....................................................
 
 
-## 📚 🖍️ :art 📘 Sobre mí
+## 📚 🎨 📘 Sobre mí
 
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, encuentro fascinante el mundo del **Testing**!
 
@@ -75,23 +75,12 @@ En esta sección se tratan los fundamentos del testing, muchos de los cuales son
 ## Preguntas de Entrevista Básicas de Testing (No Técnicas)
 
 Esta sección aborda preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
+Poco a poco iré agregando más preguntas de entrevista.
 
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1eydEyPM2PXwB2wbCuzdjYwhH8IXObgpD/view?usp=drive_link)
   
 - ### 📁[¿Cuáles son los Tipos de Testing?]() (Próximamente 🛠️)
-
-- ### 📁[¿Cuáles son los Niveles de Testing?]() (Próximamente 🛠️)
-
-- ### 📁[¿Cómo se clasifican las Pruebas?]() (Próximamente 🛠️)
-  
-- ### 📁[¿Cuál es el ciclo de vida del Software / Testing? (SDLC & STLC)]() (Próximamente 🛠️)
-- Ver más info sobre el **SDLC** [acá](https://www.guru99.com/es/software-testing-life-cycle.html)
-
-- ### 📁[¿Qué son las Pruebas de Caja Negra (Black Box Testing)?]() (Próximamente 🛠️)
-- Más información completa sobre **Caja Negra** en [éste link](https://www.zaptest.com/es/pruebas-de-caja-negra-que-son-tipos-procesos-enfoques-herramientas-y-mucho-mas)
-
-- ### 📁[¿Cuál es el Ciclo de Vida de un Bug?] (Próximamente 🛠️)
 
 
 ....................................................
@@ -145,16 +134,20 @@ Un tester tiene que tener la vista aguda para descubrir errores, pero a veces es
 Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco la info para los apuntes.
 
 
-- [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): Ingeniera de Software, QA, Psicóloga y Youtuber. Explica conceptos de testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
+🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): Ingeniera de Software, QA, Psicóloga y Youtuber. Explica conceptos de testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
+Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing (GOT)**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
 
 
-- [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Consultor, Ingeniero especializado en **Automation**, Coach y Youtuber. Pato habla de temas muy interesantes del mundo del testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
+🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Consultor, Ingeniero especializado en **Automation**, Coach y Youtuber. Pato habla de temas muy interesantes del mundo del testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
+
 Dejo el link a su web por si quieren conocer más: 
 
-- [Full Advanced](https://www.youtube.com/@FullAdvanced):
+👉 [Free Range Testers](https://www.freerangetesters.com/a/3l6l6)
+
+🟡🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced):
 
 
-- [Tester Testarudo](https://www.youtube.com/@TesterTestarudo):
+🟢 [Tester Testarudo](https://www.youtube.com/@TesterTestarudo):
 
 
 ....................................................
