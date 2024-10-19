@@ -140,9 +140,8 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 
 🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Consultor, Ingeniero especializado en **Automation**, Coach y Youtuber. Pato habla de temas muy interesantes del mundo del testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
 
-Dejo el link a su web por si quieren conocer más: 
+Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6)
 
-👉 [Free Range Testers](https://www.freerangetesters.com/a/3l6l6)
 
 🟡🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced):
 
