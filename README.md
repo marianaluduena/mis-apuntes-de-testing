@@ -151,7 +151,7 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 ....................................................
 
-## Invitame un cafecito ☕💕 <a href="https://www.animatedimages.org/cat-cups-676.htm"><img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /></a>
+## Invitame un cafecito ☕💕 <a href="https://www.animatedimages.org/cat-cups-676.htm"><img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /></a> [Cafe gif](https://github.com/user-attachments/assets/e5638914-5744-426f-8d81-41043edb014a)
 
 Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
