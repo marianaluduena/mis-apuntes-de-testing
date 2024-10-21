@@ -31,13 +31,11 @@
 
 - **Mis Apuntes de Testing** son resúmenes que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. 
 
-- Acá van a encontrar temas como Fundamentos del Testing, Preguntas de Entrevista y Tipos de Testing. Se irán incorporando más temas con el tiempo. 
+- Acá van a encontrar temas como **Fundamentos del Testing**, **Preguntas de Entrevista** y ejemplos de Bugs que encontré por casualidad en sitios que uso en mi día a día. Se irán incorporando más temas con el tiempo. 
 
 - Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar los conceptos.
 
 - Voy a dejar links a canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 
-
-- También van a encontrar demos de bugs que encontré por casualidad en sitios que uso en mi día a día. 
 
 - Por último, siéntanse libres de compartir las guías y éste repo! 😉
 
@@ -46,7 +44,7 @@
 
 ## 🎨 Sobre mí
 
-Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, encuentro fascinante el mundo del **Testing**!
+Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, me gusta mucho el mundo del **Testing**!
 
 
 - :telescope: Creo en la capacitación y aprendizaje continuo sin importar cuántos años de experiencia se tengan. Siempre hay algo nuevo para aprender!
@@ -63,7 +61,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 
 ## Pruebas de Software: Fundamentos 
 
-En esta sección se tratan los fundamentos del testing, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
+En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
 
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
@@ -76,7 +74,7 @@ En esta sección se tratan los fundamentos del testing, muchos de los cuales son
 
 ## Preguntas de Entrevista Básicas de Testing (No Técnicas)
 
-Esta sección aborda preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
+Acá van a encontrar preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
 Poco a poco iré agregando más preguntas de entrevista.
 
 
