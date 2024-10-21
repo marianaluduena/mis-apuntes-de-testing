@@ -29,20 +29,22 @@
 
 ## Sobre este repo
 
-- **Mis Apuntes de Testing** son resúmenes visuales que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. La idea es poder compartir ésta info con ustedes como guías de estudio y le llegue a más gente!
+- **Mis Apuntes de Testing** son resúmenes que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. 
 
-- Se van a abordar temas varios como fundamentos del testing, preguntas de entrevista, tipos de testing, y se irán incorporando temas con el tiempo. 
+- Acá van a encontrar temas como Fundamentos del Testing, Preguntas de Entrevista y Tipos de Testing. Se irán incorporando más temas con el tiempo. 
 
-- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar conceptos básicos, técnicos, y que pueden ser pregunta de entrevista. También uso nombres y términos en inglés para ir acostumbrándonos a ellos y que no nos tomen por sorpresa en el primer día de trabajo.
+- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar los conceptos.
 
-- Voy a dejar links útiles de canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 
+- Voy a dejar links a canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 
 
-- También van a encontrar demos de bugs que encontré por casualidad en sitios que uso a diario 😉
+- También van a encontrar demos de bugs que encontré por casualidad en sitios que uso en mi día a día. 
+
+- Por último, siéntanse libres de compartir las guías y éste repo! 😉
 
 ....................................................
 
 
-## 📚 🎨 📘 Sobre mí
+## 🎨 Sobre mí
 
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, encuentro fascinante el mundo del **Testing**!
 
@@ -118,8 +120,7 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 ## Bugs descubiertos por casualidad 
 
-Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing.
-Un tester tiene que tener la vista aguda para descubrir errores, pero a veces están delante nuestro!
+Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
 
 ### Bugs Funcionales:
 
