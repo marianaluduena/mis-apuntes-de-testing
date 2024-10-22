@@ -68,7 +68,7 @@ En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales
   
 - ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?](https://drive.google.com/file/d/13NcrqbY2nEH9VoPeZzOsS8eCvtOHzbXN/view?usp=drive_link)
 
-- ### 📁[¿Qué significa Falso Positivo y Falso Negativo?]()
+- ### 📁[¿Qué es un Falso Positivo y un Falso Negativo?](https://drive.google.com/file/d/1-P4E9H6g6J1kH50HhtDR22uX0BJzM-rp/view?usp=drive_link)
 
 ....................................................
 
@@ -87,32 +87,60 @@ Poco a poco iré agregando más preguntas de entrevista.
 
 ## Diccionario 📖
 
-Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT.
+Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT. Voy a ir agregando las letras faltantes a medida que vaya sumando términos.
 
 
-- **PO**: Product Owner (Propietario del producto) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
-  
-- **PM**: Product Manager (Gerente de producto) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
+**A**
+
+- **AC**: Acceptance Criteria (**Criterios de aceptación**) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+
+- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
+
+
+**B**
+
+- **BA**: Business Analyst se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
+
+
+**D**
 
 - **Dev**: Developer (Desarrollador)
 
-- **UI/UX**: Diseñador de interfaz de usuario.
-  
-- **TAE**: Test Automation Tester es un **QA** especializado en automatizar las pruebas.
-  
-- **BA**: Business Analyst se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
-  
-- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
 
-- **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
+**K**
 
 - **Kanban**: modelo de metodologia ágil basada sólo en tarjetas. Se diferenciade Scrum al no haber sprints.
 
-- **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
+- **KT**: Knowleadge Transfer (**Transferencia de Conocimientos**) es la transferencia de conocimientos, habilidades y experiencias de alguien (puede ser un equipo de la organización / empresa, o alguien del mismo equipo con mayor experiencia) a una o más personas. También puede ser explicarle al otro el proyecto en el que se está trabajando para conocerlo mejor, en qué consiste, etc.
 
-- **AC**: Acceptance Criteria (Criterios de aceptación) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+
+**P**
+
+  
+- **PM**: Product Manager (Gerente de producto) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
+
+- **PO**: Product Owner (Propietario del producto) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
+
+
+**S**
+
 
 - **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
+
+- **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
+
+- **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
+
+
+**T**
+
+- **TAE**: Test Automation Tester es un **QA** especializado en automatizar las pruebas.
+
+
+**U**
+
+- **UI/UX**: Diseñador de interfaz de usuario.
+  
 
 ....................................................
 
