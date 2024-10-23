@@ -22,8 +22,8 @@
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
-- [¿Dónde aprender Testing?]()
-- [¿Dónde practicar Testing?]()
+- [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing)
+- [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
 
