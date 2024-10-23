@@ -22,6 +22,8 @@
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
+- [¿Dónde aprender Testing?]()
+- [¿Dónde practicar Testing?]()
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
 
@@ -219,7 +221,15 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6)
 
+....................................................
 
+## ¿Dónde practicar Testing?
+
+Aprender con cursos y obtener el certificado está excelente, pero practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
+
+- [Open Cart Abstracta (es un sandbox gratuito)](http://opencart.abstracta.us/index.php?route=common/home)
+  
+- [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6)
 
 ....................................................
 
