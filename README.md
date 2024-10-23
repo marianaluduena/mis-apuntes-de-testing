@@ -92,14 +92,16 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 **A**
 
-- **AC**: Acceptance Criteria (**Criterios de aceptación**) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+- **AC**: **Acceptance Criteria** (**Criterios de aceptación**) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
 
 - **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
 
 
 **B**
 
-- **BA**: Business Analyst se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
+- **BA**: **Business Analyst** se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
+
+- **Bug**: Defecto en un sistema que hace que el Software no funcione de la manera esperada. Los Bugs pueden encontrarse en el código, pero pueden estar en otras partes, como en el Hardware, una mala configuración, etc. 
 
 
 **D**
@@ -111,16 +113,19 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 - **Kanban**: modelo de metodologia ágil basada sólo en tarjetas. Se diferenciade Scrum al no haber sprints.
 
-- **KT**: Knowleadge Transfer (**Transferencia de Conocimientos**) es la transferencia de conocimientos, habilidades y experiencias de alguien (puede ser un equipo de la organización / empresa, o alguien del mismo equipo con mayor experiencia) a una o más personas. También puede ser explicarle al otro el proyecto en el que se está trabajando para conocerlo mejor, en qué consiste, etc.
+- **KT**: **Knowleadge Transfer** (**Transferencia de Conocimientos**) es la transferencia de conocimientos, habilidades y experiencias de alguien (puede ser un equipo de la organización / empresa, o alguien del mismo equipo con mayor experiencia) a una o más personas. También puede ser explicarle al otro el proyecto en el que se está trabajando para conocerlo mejor, en qué consiste, etc.
 
 
 **P**
 
   
-- **PM**: Product Manager (Gerente de producto) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
+- **PM**: **Product Manager** (**Gerente de Producto**) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
 
-- **PO**: Product Owner (Propietario del producto) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
+- **PO**: **Product Owner** (**Propietario del Producto**) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
 
+**Q**
+
+- **QA**: **Quality Assurance** (**Asegurador de Calidad**) es el especialista en probar un sistema para asegurarse de que funcione correctamente de acuerdo a los requerimientos y criterios de aceptación. En caso de encontrar algún defecto, el **QA** lo reporta, hace seguimiento del Bug hasta que sea corregido por el equipo de desarrollo y, una vez corregido, lo vuelve a testear para asegurarse de que el defecto haya sido corregido y no se haya roto alguna otra parte del Software.
 
 **S**
 
@@ -134,7 +139,7 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 **T**
 
-- **TAE**: Test Automation Tester es un **QA** especializado en automatizar las pruebas.
+- **TAE**: **Test Automation Tester** es un **QA** especializado en automatizar las pruebas.
 
 
 **U**
