@@ -184,7 +184,13 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 ## ¿Dónde aprender Testing?
 
-Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos (todos con certificado!) de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
+Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos (todos con certificado!) gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
+
+
+### Programación para Testers
+
+- [JavaScript Básico para Testers (Gratis)](https://testertestarudo.com/course/javascript-basico-para-testers/)
+
 
 
 ### Testing Exploratorio
@@ -193,14 +199,18 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 - [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159)
 
 
+
  ### Inteligencia Artificial (AI / IA):
 
  - [Introducción a las Pruebas de Sistemas de AI](Https://Nadiacavalleri.Com.Ar/Courses/Pruebas-De-Inteligencia-Artificial?Ref=96740159)
 
  
 
-
  ### API Testing:
+
+ - [Curso Introductorio de Postman (Gratis)](https://testertestarudo.com/course/curso-introductorio-de-postman/)
+
+ - [Curso Básico de API Testing en Python (Gratis)](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/)
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6)
 
