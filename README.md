@@ -187,6 +187,11 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos (todos con certificado!) gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
+### Introducción al Testing
+
+- [Introducción al Testing de Software (incluye actividades y autoevaluación)](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159)
+
+
 ### Programación para Testers
 
 - [JavaScript Básico para Testers (Gratis)](https://testertestarudo.com/course/javascript-basico-para-testers/)
