@@ -166,11 +166,11 @@ Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana,
 Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco la info para los apuntes.
 
 
-🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): Ingeniera de Software, QA, Psicóloga y Youtuber. Explica conceptos de testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
+🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
 Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing (GOT)**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
 
 
-🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Consultor, Ingeniero especializado en **Automation**, Coach y Youtuber. Pato habla de temas muy interesantes del mundo del testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
+🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Pato habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
 
 Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6)
 
@@ -183,7 +183,7 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 ....................................................
 
-## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"><img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> <a href="https://www.animatedimages.org/cat-hearts-373.htm"><img src="https://www.animatedimages.org/data/media/373/animated-heart-image-0525.gif" border="0" alt="animated-heart-image-0525" /></a>
+## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> 💕 <a href="https://www.animatedimages.org/cat-hearts-373.htm"><img src="https://www.animatedimages.org/data/media/373/animated-heart-image-0525.gif" border="0" alt="animated-heart-image-0525" /></a>
 Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
