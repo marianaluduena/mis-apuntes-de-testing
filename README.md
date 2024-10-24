@@ -164,7 +164,9 @@ Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana,
 
 ### Bugs No Funcionales:
 
-- [Pedidos Ya: Elegir 13 Opciones](https://drive.google.com/file/d/1oyVcGjC2B1F2qOUFW6h_B0l8jusSdMBX/view?usp=drive_link)
+- [Pedidos Ya: Elegir 13 Opciones](https://drive.google.com/file/d/1oyVcGjC2B1F2qOUFW6h_B0l8jusSdMBX/view?usp=drive_link) - **Defecto visual**
+
+  
 ....................................................
 
 ## Canales de Testing que recomiendo
@@ -190,7 +192,7 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 ## ¿Dónde aprender Testing?
 
-Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos (todos con certificado!) gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
+Ya sea tanto **Testing Manual** como **Automation** o si estás queriendo rendir la **Certificación del ISTQB**, acá les dejo una lista de cursos (todos con certificado!) gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
 ### Introducción al Testing
@@ -224,6 +226,15 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
  - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis**
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6) - **Free Range Testers**
+
+
+
+### Certificación del ISTQB
+
+- [Aprobá la Certificación](Https://Nadiacavalleri.Com.Ar/Courses/Aproba-La-Certificacion-Foundation-Level?Ref=96740159) - **Nadia Cavalleri**
+
+- [Resolución de Modelos de Exámenes](Https://Nadiacavalleri.Com.Ar/Courses/Resolucion-De-Modelos-De-Examenes-Foundation-Level?Ref=96740159) - **Nadia Cavalleri**
+
 
 ....................................................
 
