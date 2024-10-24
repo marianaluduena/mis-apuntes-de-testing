@@ -168,7 +168,8 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 🟡🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced):
 
 
-🟢 [Tester Testarudo](https://www.youtube.com/@TesterTestarudo):
+🟢 [Tester Testarudo](https://www.youtube.com/@TesterTestarudo): **Manuel Ledezma** es un **QA Automation** que sube entrevistas y charlas muy interesantes con otros testers a **YouTube**, y tutoriales de **programación para testers** con **Python**, **Playwright**, y **API Testing**. 
+Él ofrece **cursos gratis y con certificado** en su web [Testarudo Academy](https://testertestarudo.com/cursos/) que poco a poco está creciendo.
 
 ....................................................
 
