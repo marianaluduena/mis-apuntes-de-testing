@@ -161,6 +161,10 @@ Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana,
 
 - [Página No Encontrada](https://drive.google.com/file/d/1g3r8IAfQZn_EgstPDQQ3zBqwQBrTBSI6/view?usp=drive_link)
 
+
+### Bugs No Funcionales:
+
+- [Pedidos Ya: Elegir 13 Opciones](https://drive.google.com/file/d/1oyVcGjC2B1F2qOUFW6h_B0l8jusSdMBX/view?usp=drive_link)
 ....................................................
 
 ## Canales de Testing que recomiendo
@@ -230,6 +234,10 @@ Aprender con cursos y obtener el certificado está excelente, pero practicar lo 
 - [Open Cart Abstracta (es un sandbox gratuito)](http://opencart.abstracta.us/index.php?route=common/home)
   
 - [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6)
+  
+....................................................
+
+## Training Camp IT
 
 ....................................................
 
