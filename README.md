@@ -20,10 +20,10 @@
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
 - [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-no-t%C3%A9cnicas)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
-- [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing)
+- [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
 
@@ -31,13 +31,12 @@
 
 ## Sobre este repo
 
-- **Mis Apuntes de Testing** son resúmenes que voy armando basados en mi experiencia y a medida que voy aprendiendo conceptos nuevos. 
+- **Mis Apuntes de Testing** es una lista de resúmenes y recursos para aprender **Testing de Software**. Empezó con la idea de sólo guardar los resúmenes que voy subiendo a **LinkedIn**, pero decidí incluir material adicional como **Canales de Youtube**, **Cursos** y **Ejemplos de Bugs** que encontré por casualidad en sitios que uso en mi día a día.
+  
+- En los resúmenes van a encontrar temas como **Fundamentos del Testing** y **Preguntas de Entrevista**.
 
-- Acá van a encontrar temas como **Fundamentos del Testing**, **Preguntas de Entrevista** y ejemplos de Bugs que encontré por casualidad en sitios que uso en mi día a día. Se irán incorporando más temas con el tiempo. 
+- 
 
-- Los resúmenes los trato de armar de una forma muy visual y clara para que sea más fácil internalizar los conceptos.
-
-- Voy a dejar links a canales de Youtube de donde voy sacando la info por si quieren ver las charlas y videos completos! 
 
 - Por último, siéntanse libres de compartir las guías y éste repo! 😉
 
@@ -151,23 +150,6 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 ....................................................
 
-## Bugs descubiertos por casualidad 
-
-Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
-
-### Bugs Funcionales:
-
-- [Lista de impuestos municipales que no se muestra](https://drive.google.com/file/d/1hLyYqztAyDIiYdNOrxFJT6fhXcS3qI4t/view?usp=drive_link)
-
-- [Página No Encontrada](https://drive.google.com/file/d/1g3r8IAfQZn_EgstPDQQ3zBqwQBrTBSI6/view?usp=drive_link)
-
-
-### Bugs No Funcionales:
-
-- [Pedidos Ya: Elegir 13 Opciones](https://drive.google.com/file/d/1oyVcGjC2B1F2qOUFW6h_B0l8jusSdMBX/view?usp=drive_link) - **Defecto visual**
-
-  
-....................................................
 
 ## Canales de Testing que recomiendo
 
@@ -247,8 +229,22 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
   
 ....................................................
 
-## Training Camp IT
+## Bugs descubiertos por casualidad 
 
+Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
+
+### Bugs Funcionales:
+
+- [Lista de impuestos municipales que no se muestra](https://drive.google.com/file/d/1hLyYqztAyDIiYdNOrxFJT6fhXcS3qI4t/view?usp=drive_link)
+
+- [Página No Encontrada](https://drive.google.com/file/d/1g3r8IAfQZn_EgstPDQQ3zBqwQBrTBSI6/view?usp=drive_link)
+
+
+### Bugs No Funcionales:
+
+- [Pedidos Ya: Elegir 13 Opciones](https://drive.google.com/file/d/1oyVcGjC2B1F2qOUFW6h_B0l8jusSdMBX/view?usp=drive_link) - **Defecto visual**
+
+  
 ....................................................
 
 ## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> 💕 <a href="https://www.animatedimages.org/cat-hearts-373.htm"><img src="https://www.animatedimages.org/data/media/373/animated-heart-image-0525.gif" border="0" alt="animated-heart-image-0525" /></a>
