@@ -195,45 +195,45 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Introducción al Testing
 
-- [Introducción al Testing de Software (incluye actividades y autoevaluación)](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159)
+- [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
 
 ### Programación para Testers
 
-- [JavaScript Básico para Testers (Gratis)](https://testertestarudo.com/course/javascript-basico-para-testers/)
+- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
 
 
 
 ### Testing Exploratorio
 
 
-- [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159)
+- [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159) - **Nadia Cavalleri**
 
 
 
  ### Inteligencia Artificial (AI / IA):
 
- - [Introducción a las Pruebas de Sistemas de AI](Https://Nadiacavalleri.Com.Ar/Courses/Pruebas-De-Inteligencia-Artificial?Ref=96740159)
+ - [Introducción a las Pruebas de Sistemas de AI](Https://Nadiacavalleri.Com.Ar/Courses/Pruebas-De-Inteligencia-Artificial?Ref=96740159) - **Nadia Cavalleri**
 
  
 
  ### API Testing:
 
- - [Curso Introductorio de Postman (Gratis)](https://testertestarudo.com/course/curso-introductorio-de-postman/)
+ - [Curso Introductorio de Postman](https://testertestarudo.com/course/curso-introductorio-de-postman/) - **Gratis**
 
- - [Curso Básico de API Testing en Python (Gratis)](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/)
+ - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis**
 
-- [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6)
+- [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6) - **Free Range Testers**
 
 ....................................................
 
 ## ¿Dónde practicar Testing?
 
-Aprender con cursos y obtener el certificado está excelente, pero practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
+Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
 
-- [Open Cart Abstracta (es un sandbox gratuito)](http://opencart.abstracta.us/index.php?route=common/home)
+- [Open Cart Abstracta](http://opencart.abstracta.us/index.php?route=common/home) - **Es un sandbox gratuito**
   
-- [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6)
+- [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6) - **Free Range Testers**
   
 ....................................................
 
