@@ -244,7 +244,9 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
 Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
 
+
 🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
+
 Dejo un link a un **curso gratuito de Jira y con certificado** que hice hace poco, y que me sirvió para tener un pantallazo de cómo funciona, pero en mi opinión se queda muy corto:
 
 - [Manejo de Proyectos con Jira y Testing de Calidad de Software](https://aulaonline.com.ar/aula/) - **Vigente hasta el 15/12/2024**
