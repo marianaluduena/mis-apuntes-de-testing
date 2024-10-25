@@ -23,7 +23,7 @@
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing)
-- [¿Qué más se necesita para ser Tester?]()
+- [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
