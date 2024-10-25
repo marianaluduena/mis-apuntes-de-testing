@@ -23,6 +23,7 @@
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing)
+- [¿Qué más se necesita para ser Tester?]()
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
@@ -146,14 +147,18 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 **U**
 
 - **UI/UX**: Diseñador de interfaz de usuario.
-  
+
+
+**W**
+
+ - **Workflow**: **Flujo de Trabajo**
 
 ....................................................
 
 
 ## Canales de Testing que recomiendo
 
-Dejo una lista de los canales de **Youtube** de testing que sigo y de donde saco la info para los apuntes.
+Dejo una lista de los canales de **Youtube** de Testing que sigo y de donde saco la info para los apuntes.
 
 
 🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
@@ -169,13 +174,15 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 
 🟢 [Tester Testarudo](https://www.youtube.com/@TesterTestarudo): **Manuel Ledezma** es un **QA Automation** que sube entrevistas y charlas muy interesantes con otros testers a **YouTube**, y tutoriales de **programación para testers** con **Python**, **Playwright**, y **API Testing**. 
-Él ofrece **cursos gratis y con certificado** en su web [Testarudo Academy](https://testertestarudo.com/cursos/) que poco a poco está creciendo.
+Él ofrece **cursos gratis y con certificado** en su web [Testarudo Academy](https://testertestarudo.com/cursos/) que poco a poco está creciendo!
+
+🟢 [Upex Galaxy])():
 
 ....................................................
 
 ## ¿Dónde aprender Testing?
 
-Ya sea tanto **Testing Manual** como **Automation** o si estás queriendo rendir la **Certificación del ISTQB**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
+Ya sea tanto **Testing Manual** como **Automation**, o para rendir la **Certificación del ISTQB**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
 ### Introducción al Testing
@@ -185,7 +192,7 @@ Ya sea tanto **Testing Manual** como **Automation** o si estás queriendo rendir
 
 ### Programación para Testers
 
-- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
+- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis - Tester Testarudo**
 
 
 
@@ -197,9 +204,9 @@ Ya sea tanto **Testing Manual** como **Automation** o si estás queriendo rendir
 
  ### API Testing:
 
- - [Curso Introductorio de Postman](https://testertestarudo.com/course/curso-introductorio-de-postman/) - **Gratis**
+ - [Curso Introductorio de Postman](https://testertestarudo.com/course/curso-introductorio-de-postman/) - **Gratis - Tester Testarudo**
 
- - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis**
+ - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis - Tester Testarudo**
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6) - **Free Range Testers**
 
@@ -230,9 +237,27 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
   
 ....................................................
 
+
+
+## ¿Qué más se necesita para ser Tester?
+
+Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
+Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
+
+🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
+Dejo un link a un **curso gratuito de Jira y con certificado** que hice hace poco, y que me sirvió para tener un pantallazo de cómo funciona, pero en mi opinión se queda muy corto:
+
+- [Manejo de Proyectos con Jira y Testing de Calidad de Software](https://aulaonline.com.ar/aula/) - **Vigente hasta el 15/12/2024**
+  Es el último curso de la lista de esa web.
+
+🟡 **Inglés**: es quizá una de las principales habilidades que piden, y una de las que más limita después de la falta de experiencia, pero también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
+
+
+....................................................
+
 ## Bugs descubiertos por casualidad 
 
-Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
+A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
 
 ### Bugs Funcionales:
 
@@ -249,7 +274,7 @@ Les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana,
 ....................................................
 
 ## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> 💕 <a href="https://www.animatedimages.org/cat-hearts-373.htm"><img src="https://www.animatedimages.org/data/media/373/animated-heart-image-0525.gif" border="0" alt="animated-heart-image-0525" /></a>
-Si el material que subo te resultó útil y querés invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
+Si el material que subo les resultó útil y quieren invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
 
