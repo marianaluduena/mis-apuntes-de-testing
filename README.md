@@ -35,7 +35,7 @@
   
 - En los resúmenes van a encontrar temas como **Fundamentos del Testing** y **Preguntas de Entrevista**.
 
-- 
+- Éste repo está dirigido especialmente a **principiantes**, **juniors** y **trainees**, pero **también para quienes ya tienen un poco de experiencia** y quieren seguir avanzando y/o pasarse a **Automation**.
 
 
 - Por último, siéntanse libres de compartir las guías y éste repo! 😉
@@ -54,7 +54,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 - 🎼 En mi tiempo libre me gusta aprender música, tocar el piano y la guitarra!
   
 
-- 
+- Me encanta andar en rollers! 🛼
 
 
 ....................................................
