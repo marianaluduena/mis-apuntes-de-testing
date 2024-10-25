@@ -44,7 +44,7 @@
 ....................................................
 
 
-## 🎨 Sobre mí
+## Sobre mí 🎨
 
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, me gusta mucho el mundo del **Testing**!
 
@@ -182,6 +182,8 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 ## ¿Dónde aprender Testing?
 
+[Roadmap QA](https://imgur.com/DAJ0hsw)
+
 Ya sea tanto **Testing Manual** como **Automation**, o para rendir la **Certificación del ISTQB**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
@@ -286,11 +288,11 @@ Si el material que subo les resultó útil y quieren invitarme un cafecito bienv
 
 ## Contacto 🤝
 
-### 💻 Mi LinkedIn: 
+### Mi LinkedIn 💻 : 
 
 - :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
 
-### 🔎 Mi sitio web:
+### Mi sitio web 🔎:
 
 - Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
 
