@@ -185,18 +185,18 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 Ya sea tanto **Testing Manual** como **Automation**, o para rendir la **Certificación del ISTQB**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
-### Introducción al Testing
+### Introducción al Testing:
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
 
-### Programación para Testers
+### Programación para Testers:
 
 - [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis - Tester Testarudo**
 
 
 
-### Testing Exploratorio
+### Testing Exploratorio:
 
 
 - [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159) - **Nadia Cavalleri**
@@ -218,7 +218,7 @@ Ya sea tanto **Testing Manual** como **Automation**, o para rendir la **Certific
 
 
 
-### Certificación del ISTQB
+### Certificación del ISTQB:
 
 - [Aprobá la Certificación](Https://Nadiacavalleri.Com.Ar/Courses/Aproba-La-Certificacion-Foundation-Level?Ref=96740159) - **Nadia Cavalleri**
 
