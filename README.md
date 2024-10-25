@@ -182,7 +182,7 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 
 ## ¿Dónde aprender Testing?
 
-[Roadmap QA](https://imgur.com/DAJ0hsw)
+<img src = https://imgur.com/DAJ0hsw alt = "Imagen de la ruta de aprendizaje para ser QA" />
 
 Ya sea tanto **Testing Manual** como **Automation**, o para rendir la **Certificación del ISTQB**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
