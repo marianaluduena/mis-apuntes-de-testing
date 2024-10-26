@@ -188,19 +188,10 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Introducción al Testing🧪:
 
-<div class="card" style="width: 300" style= "height:200">
-  <img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
-
-
+<img src="https://www.diffblue.com/_next/image/?url=https%3A%2F%2Fdiffbluewp.wpengine.com%2Fwp-content%2Fuploads%2F2024%2F03%2Funit-test-automation-vs-automated-functional-testing.png&w=1920&q=75">
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
+
 
 
 ### Programación para Testers:
