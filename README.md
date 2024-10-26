@@ -188,7 +188,6 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Introducción al Testing🧪:
 
-<img src="https://www.diffblue.com/_next/image/?url=https%3A%2F%2Fdiffbluewp.wpengine.com%2Fwp-content%2Fuploads%2F2024%2F03%2Funit-test-automation-vs-automated-functional-testing.png&w=1920&q=75">
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
