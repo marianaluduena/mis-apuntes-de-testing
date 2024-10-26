@@ -188,7 +188,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Introducción al Testing🧪:
 
-<div class="card" style="width: 300; height:"200">
+<div class="card" style="width: 300; height:200">
   <img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
