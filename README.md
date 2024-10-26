@@ -186,7 +186,17 @@ Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](ht
 Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
-### Introducción al Testing:
+### Introducción al Testing🧪:
+
+<div class="card" style="width: 18rem;">
+  <img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
 
 <img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" width="300" height ="200"/>
 
@@ -199,7 +209,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 
 
-### Testing Exploratorio:
+### Testing Exploratorio🧭:
 
 
 - [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159) - **Nadia Cavalleri**
