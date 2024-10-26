@@ -188,7 +188,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Introducción al Testing:
 
-<img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" width="300" height ="168"/>
+<img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" width="100%" height ="168"/>
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
