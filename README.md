@@ -191,19 +191,21 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
-
+....................................................
 
 ### Programación para Testers:
 
 - [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
 
 
+....................................................
 
 ### Testing Exploratorio🧭:
 
 
 - [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159) - **Nadia Cavalleri**
 
+....................................................
 
  ### API Testing:
 
@@ -213,6 +215,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6) - **Free Range Testers**
 
+....................................................
 
 
 ### Inteligencia Artificial (AI / IA):
