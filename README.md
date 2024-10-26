@@ -188,7 +188,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Introducción al Testing🧪:
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 300; height="200">
   <img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
@@ -198,7 +198,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 </div>
 
 
-<img src="https://github.com/user-attachments/assets/04323282-9aff-4171-9d09-c3e8eb991917" width="300" height ="200"/>
+
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
