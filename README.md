@@ -243,7 +243,7 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 ## ¿Qué más se necesita para ser Tester?
 
-<img src = "https://i.imgur.com/DAJ0hsw.png" height="1rem"/>
+<img src = "https://i.imgur.com/DAJ0hsw.png" height="500px"/>
 
 Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
 Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
