@@ -158,8 +158,7 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 
 ## Canales de Testing que recomiendo
 
-Dejo una lista de los canales de **Youtube** de Testing que sigo y de donde saco la info para los apuntes.
-
+Dejo una lista de los canales de **Youtube** de Testing que sigo.
 
 🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
 Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing (GOT)**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
@@ -170,13 +169,14 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6)
 
 
-🟡🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced):
+🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced): en éste canal van a encontrar la lista de videos del **Curso Fundamentos de Pruebas de Software** de donde saco la info para los apuntes, además de **tips para entrevistas**, entre otros temas.
+
 
 
 🟢 [Tester Testarudo](https://www.youtube.com/@TesterTestarudo): **Manuel Ledezma** es un **QA Automation** que sube entrevistas y charlas muy interesantes con otros testers a **YouTube**, y tutoriales de **programación para testers** con **Python**, **Playwright**, y **API Testing**. 
 Él ofrece **cursos gratis y con certificado** en su web [Testarudo Academy](https://testertestarudo.com/cursos/) que poco a poco está creciendo!
 
-🟢 [Upex Galaxy])():
+ 🟡 [Upex Galaxy])():
 
 ....................................................
 
@@ -197,6 +197,8 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 
 - [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
+
+- [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis**
 
 
 
