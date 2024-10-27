@@ -164,9 +164,8 @@ Dejo una lista de los canales de **Youtube** de Testing que sigo.
 Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing (GOT)**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
 
 
-🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Pato habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados.
+🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Pato habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
 
-Dejo el link a su web por si quieren conocer más 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6)
 
 
 🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced): en éste canal van a encontrar la lista de videos del **Curso Fundamentos de Pruebas de Software** de donde saco la info para los apuntes, además de **tips para entrevistas**, entre otros temas.
@@ -244,7 +243,7 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 ## ¿Qué más se necesita para ser Tester?
 
-<img src = "https://i.imgur.com/DAJ0hsw.png"/>
+<img src = "https://i.imgur.com/DAJ0hsw.png" height="100px"/>
 
 Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
 Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
