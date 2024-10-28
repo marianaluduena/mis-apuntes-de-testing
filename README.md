@@ -247,7 +247,7 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 <div>
 
-<img src = "https://i.imgur.com/DAJ0hsw.png" height="1100px"/>
+<img src = "https://i.imgur.com/DAJ0hsw.png" height="1300px"/>
 
 </div>
 </div>
