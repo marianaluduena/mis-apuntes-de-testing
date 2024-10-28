@@ -19,11 +19,11 @@
 - [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#-sobre-m%C3%AD)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
 - [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-no-t%C3%A9cnicas)
-- [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
+- [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing)
-- [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester)
+- [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
@@ -87,71 +87,30 @@ Poco a poco iré agregando más preguntas de entrevista.
 
 ....................................................
 
-## Diccionario 📖
 
-Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT. Voy a ir agregando las letras faltantes a medida que vaya sumando términos.
+## ¿Qué más se necesita para ser Tester?
 
+<div align="center">
 
-**A**
+<div>
 
-- **AC**: **Acceptance Criteria** (**Criterios de aceptación**) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+<img src = "https://i.imgur.com/DAJ0hsw.png" height="1300px"/>
 
-- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
-
-
-**B**
-
-- **BA**: **Business Analyst** se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
-
-- **Bug**: Defecto en un sistema que hace que el Software no funcione de la manera esperada. Los Bugs pueden encontrarse en el código, pero pueden estar en otras partes, como en el Hardware, una mala configuración, etc. 
+</div>
+</div>
 
 
-**D**
-
-- **Dev**: Developer (Desarrollador)
 
 
-**K**
-
-- **Kanban**: modelo de metodologia ágil basada sólo en tarjetas. Se diferenciade Scrum al no haber sprints.
-
-- **KT**: **Knowleadge Transfer** (**Transferencia de Conocimientos**) es la transferencia de conocimientos, habilidades y experiencias de alguien (puede ser un equipo de la organización / empresa, o alguien del mismo equipo con mayor experiencia) a una o más personas. También puede ser explicarle al otro el proyecto en el que se está trabajando para conocerlo mejor, en qué consiste, etc.
+Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
+Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
 
 
-**P**
-
-  
-- **PM**: **Product Manager** (**Gerente de Producto**) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
-
-- **PO**: **Product Owner** (**Propietario del Producto**) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
-
-**Q**
-
-- **QA**: **Quality Assurance** (**Asegurador de Calidad**) es el especialista en probar un sistema para asegurarse de que funcione correctamente de acuerdo a los requerimientos y criterios de aceptación. En caso de encontrar algún defecto, el **QA** lo reporta, hace seguimiento del Bug hasta que sea corregido por el equipo de desarrollo y, una vez corregido, lo vuelve a testear para asegurarse de que el defecto haya sido corregido y no se haya roto alguna otra parte del Software.
-
-**S**
+🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
 
 
-- **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
 
-- **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
-
-- **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
-
-
-**T**
-
-- **TAE**: **Test Automation Tester** es un **QA** especializado en automatizar las pruebas.
-
-
-**U**
-
-- **UI/UX**: Diseñador de interfaz de usuario.
-
-
-**W**
-
- - **Workflow**: **Flujo de Trabajo**
+🟡 **Inglés**: es quizá una de las principales habilidades que piden, y una de las que más limita después de la falta de experiencia, pero también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
 
 ....................................................
 
@@ -237,33 +196,77 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
   
 - [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6) - **Free Range Testers**
   
-....................................................
-
-
-
-## ¿Qué más se necesita para ser Tester?
-
-<div align="center">
-
-<div>
-
-<img src = "https://i.imgur.com/DAJ0hsw.png" height="1300px"/>
-
-</div>
-</div>
-
-Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
-Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
-
-
-🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
-
-
-
-🟡 **Inglés**: es quizá una de las principales habilidades que piden, y una de las que más limita después de la falta de experiencia, pero también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
-
 
 ....................................................
+
+## Diccionario 📖
+
+Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT. Voy a ir agregando las letras faltantes a medida que vaya sumando términos.
+
+
+**A**
+
+- **AC**: **Acceptance Criteria** (**Criterios de aceptación**) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
+
+- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
+
+
+**B**
+
+- **BA**: **Business Analyst** se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
+
+- **Bug**: Defecto en un sistema que hace que el Software no funcione de la manera esperada. Los Bugs pueden encontrarse en el código, pero pueden estar en otras partes, como en el Hardware, una mala configuración, etc. 
+
+
+**D**
+
+- **Dev**: Developer (Desarrollador)
+
+
+**K**
+
+- **Kanban**: modelo de metodologia ágil basada sólo en tarjetas. Se diferenciade Scrum al no haber sprints.
+
+- **KT**: **Knowleadge Transfer** (**Transferencia de Conocimientos**) es la transferencia de conocimientos, habilidades y experiencias de alguien (puede ser un equipo de la organización / empresa, o alguien del mismo equipo con mayor experiencia) a una o más personas. También puede ser explicarle al otro el proyecto en el que se está trabajando para conocerlo mejor, en qué consiste, etc.
+
+
+**P**
+
+  
+- **PM**: **Product Manager** (**Gerente de Producto**) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
+
+- **PO**: **Product Owner** (**Propietario del Producto**) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
+
+**Q**
+
+- **QA**: **Quality Assurance** (**Asegurador de Calidad**) es el especialista en probar un sistema para asegurarse de que funcione correctamente de acuerdo a los requerimientos y criterios de aceptación. En caso de encontrar algún defecto, el **QA** lo reporta, hace seguimiento del Bug hasta que sea corregido por el equipo de desarrollo y, una vez corregido, lo vuelve a testear para asegurarse de que el defecto haya sido corregido y no se haya roto alguna otra parte del Software.
+
+**S**
+
+
+- **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
+
+- **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
+
+- **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
+
+
+**T**
+
+- **TAE**: **Test Automation Tester** es un **QA** especializado en automatizar las pruebas.
+
+
+**U**
+
+- **UI/UX**: Diseñador de interfaz de usuario.
+
+
+**W**
+
+ - **Workflow**: **Flujo de Trabajo**
+
+....................................................
+
 
 ## Bugs descubiertos por casualidad 
 
