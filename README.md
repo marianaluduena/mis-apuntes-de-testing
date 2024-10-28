@@ -280,6 +280,8 @@ A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en 
 
 - [Pedidos Ya: Elegir 13 Opciones](https://drive.google.com/file/d/1oyVcGjC2B1F2qOUFW6h_B0l8jusSdMBX/view?usp=drive_link) - **Defecto visual**
 
+- [L'oreal Paris: Idiomas Inglés y Portugués en web escrita en Español](https://drive.google.com/file/d/1sX2ldaSLYQlGy_Z8H4uoDbs6F1jJsuD5/view?usp=drive_link) - **Defecto visual**
+
   
 ....................................................
 
