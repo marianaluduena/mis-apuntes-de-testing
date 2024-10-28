@@ -19,10 +19,11 @@
 - [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#-sobre-m%C3%AD)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos)
 - [Preguntas de Entrevista Básicas de Testing (No Técnicas)](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-no-t%C3%A9cnicas)
-- [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester)
+- [Ruta de Aprendizaje QA]()
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing)
+- [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito--)
@@ -88,7 +89,11 @@ Poco a poco iré agregando más preguntas de entrevista.
 ....................................................
 
 
-## ¿Qué más se necesita para ser Tester?
+## Ruta de Aprendizaje QA
+
+
+Les dejo el Roadmap de aprendizaje del Testing.
+
 
 <div align="center">
 
@@ -99,18 +104,6 @@ Poco a poco iré agregando más preguntas de entrevista.
 </div>
 </div>
 
-
-
-
-Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
-Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
-
-
-🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
-
-
-
-🟡 **Inglés**: es quizá una de las principales habilidades que piden, y una de las que más limita después de la falta de experiencia, pero también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
 
 ....................................................
 
@@ -196,6 +189,23 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
   
 - [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6) - **Free Range Testers**
   
+
+....................................................
+
+
+## ¿Qué más se necesita para ser Tester?
+
+
+Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
+Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
+
+
+🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
+
+
+
+🟡 **Inglés**: es quizá una de las principales habilidades que piden, y una de las que más limita después de la falta de experiencia, pero también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
+
 
 ....................................................
 
