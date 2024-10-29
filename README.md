@@ -201,6 +201,8 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
 
 - [Open Cart Abstracta](http://opencart.abstracta.us/index.php?route=common/home) - **Es un sandbox gratuito**
+
+- [Automation Excercise](https://www.automationexercise.com/) - **Web con Casos de Prueba y lista de API's para practicar Atomation Testing**
   
 - [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6) - **Free Range Testers**
   
