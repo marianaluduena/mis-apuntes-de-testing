@@ -203,6 +203,8 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 - [Open Cart Abstracta](http://opencart.abstracta.us/index.php?route=common/home) - **Es un sandbox gratuito**
 
 - [Automation Excercise](https://www.automationexercise.com/) - **Web con Casos de Prueba y lista de API's para practicar Atomation Testing**
+
+- Para ver más sitios de práctica 👉: [Ministry of Testing](https://www.ministryoftesting.com/articles/websites-to-practice-testing) - **Incluye API Testing, Performance, Mobile, etc**
   
 - [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6) - **Free Range Testers**
   
