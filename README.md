@@ -220,7 +220,9 @@ Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en
 
 
 🟡 **Inglés**: es quizá una de las principales habilidades que piden, y también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
-Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
+Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: 
+
+- [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
 
 ....................................................
 
