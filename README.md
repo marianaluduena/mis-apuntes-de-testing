@@ -125,7 +125,7 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 
 
  🟡 [Upex Galaxy](https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
- Para los ue están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general del cómo es el día a día de un tester y cómo trabaja.
+ Para los que están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general del cómo es el día a día de un tester y cómo trabaja.
 
 
 ....................................................
