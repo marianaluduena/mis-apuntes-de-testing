@@ -150,11 +150,12 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 ### Programación para Testers :
 
 
-- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
+- [Introducción a la Programación](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-A-La-Programacion?Ref=96740159) - **Nadia Cavalleri**
 
+- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
+  
 - [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis**
 
--[Introducción a la Programación](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-A-La-Programacion?Ref=96740159) - **Nadia Cavalleri**
 
 
 ....................................................
@@ -208,7 +209,7 @@ Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en
 
 
 
-🟡 **Inglés**: es quizá una de las principales habilidades que piden, y una de las que más limita después de la falta de experiencia, pero también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
+🟡 **Inglés**: es quizá una de las principales habilidades que piden, y también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
 Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
 
 ....................................................
