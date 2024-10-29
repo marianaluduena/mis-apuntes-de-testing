@@ -33,7 +33,7 @@
 
 ## Sobre este repo
 
-- **Mis Apuntes de Testing** es una lista de resúmenes y recursos para aprender **Testing de Software**. Empezó con la idea de sólo guardar los resúmenes que voy subiendo a **LinkedIn**, pero decidí incluir material adicional como **Canales de Youtube**, **Cursos** y **Ejemplos de Bugs** que encontré por casualidad en sitios que uso en mi día a día.
+- **Mis Apuntes de Testing** es una lista de resúmenes y recursos para aprender **Testing de Software**. Empezó con la idea de sólo guardar los resúmenes que voy subiendo a **LinkedIn**, pero decidí incluir material adicional como **Canales de Youtube**, **Cursos**, **Sitios para practicar Testing** y **Ejemplos de Bugs** que encontré por casualidad en sitios que uso en mi día a día.
   
 - En los resúmenes van a encontrar temas como **Fundamentos del Testing** y **Preguntas de Entrevista**.
 
@@ -50,13 +50,13 @@
 Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programación** y **Desarrollo Web**, me gusta mucho el mundo del **Testing**!
 
 
-- :telescope: Creo en la capacitación y aprendizaje continuo sin importar cuántos años de experiencia se tengan. Siempre hay algo nuevo para aprender!
+- :telescope: Creo que la capacitación y aprendizaje continuo sin importar cuántos años de experiencia se tengan son la clave del éxito 🌟
 
 
 - 🎼 En mi tiempo libre me gusta aprender música, tocar el piano y la guitarra!
   
 
-- Me encanta andar en rollers! 🛼
+- 🛼 Me encanta andar en rollers! 
 
 
 ....................................................
@@ -75,7 +75,7 @@ En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales
 
 ....................................................
 
-## Preguntas de Entrevista Básicas de Testing (No Técnicas)
+## Preguntas de Entrevista Básicas de Testing (No Técnicas) 👩‍💼
 
 Acá van a encontrar preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
 Poco a poco iré agregando más preguntas de entrevista.
@@ -108,7 +108,7 @@ Les dejo el Roadmap de aprendizaje del Testing.
 ....................................................
 
 
-## Canales de Testing que recomiendo
+## Canales de Testing que recomiendo 📺
 
 Dejo una lista de los canales de **Youtube** de Testing que sigo.
 
@@ -144,7 +144,7 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 
 ....................................................
 
-## ¿Dónde aprender Testing?
+## ¿Dónde aprender Testing? 🎓
 
 
 Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
@@ -157,7 +157,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ....................................................
 
-### Programación para Testers :
+### Programación para Testers👩‍💻:
 
 
 - [Introducción a la Programación](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-A-La-Programacion?Ref=96740159) - **Nadia Cavalleri**
@@ -177,7 +177,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ....................................................
 
- ### API Testing:
+ ### API Testing ⚙️:
 
  - [Curso Introductorio de Postman](https://testertestarudo.com/course/curso-introductorio-de-postman/) - **Gratis**
 
@@ -188,7 +188,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 ....................................................
 
 
-### Inteligencia Artificial (AI / IA):
+### Inteligencia Artificial (AI / IA) 🤖:
 
  - [Introducción a las Pruebas de Sistemas de AI](Https://Nadiacavalleri.Com.Ar/Courses/Pruebas-De-Inteligencia-Artificial?Ref=96740159) - **Nadia Cavalleri**
 
@@ -196,7 +196,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ....................................................
 
-## ¿Dónde practicar Testing?
+## ¿Dónde practicar Testing? 💪
 
 Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
 
@@ -212,7 +212,7 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 ....................................................
 
 
-## ¿Qué más se necesita para ser Tester?
+## ¿Qué más se necesita para ser Tester? 👇
 
 
 Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
@@ -220,6 +220,9 @@ Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en
 
 
 🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
+Dejo un **curso gratis de Jira**:
+
+-[Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp)
 
 
 
@@ -299,7 +302,7 @@ Esta sección es una lista de términos técnicos en inglés usandos en el rubro
 ....................................................
 
 
-## Bugs descubiertos por casualidad 
+## Bugs descubiertos por casualidad 🔍
 
 A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
 
@@ -319,7 +322,8 @@ A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en 
   
 ....................................................
 
-## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> 💕 <a href="https://www.animatedimages.org/cat-hearts-373.htm"><img src="https://www.animatedimages.org/data/media/373/animated-heart-image-0525.gif" border="0" alt="animated-heart-image-0525" /></a>
+## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> 💕 
+
 Si el material que subo les resultó útil y quieren invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
