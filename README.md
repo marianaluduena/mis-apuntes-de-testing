@@ -62,7 +62,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 ....................................................
 
 
-## Pruebas de Software: Fundamentos 
+## Pruebas de Software: Fundamentos 👨‍🎓
 
 En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
 
@@ -89,7 +89,7 @@ Poco a poco iré agregando más preguntas de entrevista.
 ....................................................
 
 
-## Ruta de Aprendizaje QA
+## Ruta de Aprendizaje QA 
 
 
 Les dejo el Roadmap de aprendizaje del Testing.
