@@ -119,6 +119,9 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Pato habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
 
 
+ 🟡 [Upex Galaxy])(https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
+ Para los ue están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general del cómo es el día a día de un tester y cómo trabaja.
+ 
 
 🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced): en éste canal van a encontrar la lista de videos del **Curso Fundamentos de Pruebas de Software** de donde saco la info para los apuntes, además de **tips para entrevistas**, entre otros temas.
 
@@ -127,7 +130,7 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 🟢 [Tester Testarudo](https://www.youtube.com/@TesterTestarudo): **Manuel Ledezma** es un **QA Automation** que sube entrevistas y charlas muy interesantes con otros testers a **YouTube**, y tutoriales de **programación para testers** con **Python**, **Playwright**, y **API Testing**. 
 Él ofrece **cursos gratis y con certificado** en su web [Testarudo Academy](https://testertestarudo.com/cursos/) que poco a poco está creciendo!
 
- 🟡 [Upex Galaxy])():
+
 
 ....................................................
 
@@ -151,6 +154,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis**
 
+-[Introducción a la Programación](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-A-La-Programacion?Ref=96740159) - **Nadia Cavalleri**
 
 
 ....................................................
