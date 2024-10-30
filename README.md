@@ -197,6 +197,8 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [E2E Testing con Cypress y JavaScript](https://www.freerangetesters.com/e2e-testing-con-cypress-y-javascript/3l6l6) - **Free Range Testers**
 
+- [Selenium WebDriver](https://www.youtube.com/watch?v=R_hh3jAqn8M&list=PLWkxwEHYPPt1PU5TSvdvhMaGVcytMkjHW) - **YouTube**
+
 - [Selenium y Cucumber con Java](https://www.freerangetesters.com/selenium-y-cucumber-java/3l6l6) - **Free Range Testers**
 
 
