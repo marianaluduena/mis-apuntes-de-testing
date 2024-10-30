@@ -221,7 +221,8 @@ Existen otras herramientas y habilidades requeridas para poder destacar en entre
 Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
 
 
-🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
+🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction).
+
 Dejo un **curso gratis de Jira**:
 
 - [Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp)
@@ -229,6 +230,7 @@ Dejo un **curso gratis de Jira**:
 
 
 🟡 **Inglés**: es quizá una de las principales habilidades que piden, y también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
+
 Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: 
 
 - [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
