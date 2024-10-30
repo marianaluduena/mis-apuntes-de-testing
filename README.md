@@ -112,20 +112,20 @@ Les dejo el Roadmap de aprendizaje del Testing.
 
 Dejo una lista de los canales de **Youtube** de Testing que sigo.
 
-🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, da tips para entrevistas de trabajo,  charlas y cuenta sus experiencias. Estoy aprendiendo un montón de ella!
-Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing (GOT)**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
+🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, **da tips para entrevistas** de trabajo,  **charlas** y **cuenta sus experiencias**. Estoy aprendiendo un montón de ella!
+Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
 
 ....................................................
 
 
-🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Pato habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
+🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Patricio Miner es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
 
 ....................................................
 
 
 
  🟡 [Upex Galaxy](https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
- Para los que están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general del cómo es el día a día de un tester y cómo trabaja.
+ Para los que están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general de cómo es el día a día de un tester y cómo trabaja.
 
 
 ....................................................
@@ -147,20 +147,22 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 ## ¿Dónde aprender Testing? 🎓
 
 
-Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
+Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de algunos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
-### Introducción al Testing🧪:
+### Introducción al Testing 🧪:
 
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
 ....................................................
 
-### Programación para Testers👩‍💻:
+### Programación para Testers 👩‍💻:
 
 
 - [Introducción a la Programación](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-A-La-Programacion?Ref=96740159) - **Nadia Cavalleri**
+
+- [Programación y trabajo con código para Testers](https://www.freerangetesters.com/programacion-y-trabajo-con-codigo-para-testers/3l6l6) - **Free Range Testers**
 
 - [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
   
@@ -170,7 +172,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ....................................................
 
-### Testing Exploratorio🧭:
+### Testing Exploratorio 🧭:
 
 
 - [Testing Exploratorio para agilizar tus Pruebas](Https://Nadiacavalleri.Com.Ar/Courses/Testing-Exploratorio-Para-Agilizar-Tus-Pruebas?Ref=96740159) - **Nadia Cavalleri**
@@ -222,7 +224,7 @@ Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en
 🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction)
 Dejo un **curso gratis de Jira**:
 
--[Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp)
+- [Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp)
 
 
 
@@ -322,7 +324,7 @@ A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en 
   
 ....................................................
 
-## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a> 💕 
+## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a>💕 
 
 Si el material que subo les resultó útil y quieren invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
 
