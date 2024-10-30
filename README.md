@@ -117,7 +117,7 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 ....................................................
 
 
-🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Patricio Miner es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. 
+🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Patricio Miner** es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. 
 **Tiene su propia Academia con cursos que van desde nivel principiante a más avanzados** 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
 
 ....................................................
@@ -127,6 +127,10 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
  🟡 [Upex Galaxy](https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
  Para los que están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general de cómo es el día a día de un tester y cómo trabaja.
 
+
+....................................................
+ 
+🔴[QArmy](https://www.youtube.com/@QARMY-UC): en su canal hay temas varios sobre **introducción al testing**, **casos de prueba**, **estrategias de testing**, etc.
 
 ....................................................
  
