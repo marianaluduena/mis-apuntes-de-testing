@@ -146,7 +146,7 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 ## ¿Dónde aprender Testing? 🎓
 
 
-Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos **(todos con certificado!)** gratuitos y pagos de algunos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
+Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de cursos **con certificado (excepto los de YouTube)** gratuitos y pagos de algunos de los testers ya mencionados que van desde lo más básico a temás más avanzados para que todos puedan llevarse algo sin importar el nivel y/o experiencia.
 
 
 ### Introducción al Testing 🧪:
@@ -155,8 +155,6 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
 - [Curso de Tester de Software](https://edutin.com/curso-de-tester) - **Gratis**
-
-- [Capacitaciones en Testing](https://qarmy.ar/capacitaciones/)  - **Gratis**
 
   
 ....................................................
@@ -170,9 +168,6 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
   
-- [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis**
-
-
 
 ....................................................
 
@@ -190,6 +185,19 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
  - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis**
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6) - **Free Range Testers**
+
+....................................................
+
+### Automation ⚛️:
+
+- [Cypress desde 0](https://www.youtube.com/watch?v=GINC8zpjMZ8) - **YouTube**
+
+- [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis**
+
+- [E2E Testing con Cypress y JavaScript](https://www.freerangetesters.com/e2e-testing-con-cypress-y-javascript/3l6l6) - **Free Range Testers**
+
+- [Selenium y Cucumber con Java](https://www.freerangetesters.com/selenium-y-cucumber-java/3l6l6) - **Free Range Testers**
+
 
 ....................................................
 
@@ -238,6 +246,9 @@ Dejo un **curso gratis de Jira**:
 Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: 
 
 - [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
+
+
+🟢  **Aprender Automation**: es un plus contar con al menos un poco de conocimiento en automatización de pruebas, ya que es una de las skills que más se piden en las ofertas laborales. 
 
 ....................................................
 
