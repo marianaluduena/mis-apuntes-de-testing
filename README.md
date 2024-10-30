@@ -117,7 +117,8 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 ....................................................
 
 
-🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Patricio Miner es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Habla de temas muy interesantes del mundo del Testing, hace entrevistas en su Podcast "Testers por el Mundo" con otros testers, y aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. Además tiene su propia Academia con cursos que van desde nivel principiante a más avanzados 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
+🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): Patricio Miner es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. 
+**Tiene su propia Academia con cursos que van desde nivel principiante a más avanzados** 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6).
 
 ....................................................
 
@@ -130,7 +131,7 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 ....................................................
  
 
-🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced): en éste canal van a encontrar la lista de videos del **Curso Fundamentos de Pruebas de Software** de donde saco la info para los apuntes, además de **tips para entrevistas**, entre otros temas.
+🟠 [Full Advanced](https://www.youtube.com/@FullAdvanced): en éste canal van a encontrar la lista de videos del **Curso Fundamentos de Pruebas de Software** de donde saco la info para los apuntes.
 
 
 ....................................................
@@ -246,6 +247,8 @@ Dejo un **curso gratis de Jira**:
 Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: 
 
 - [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
+
+
 
 
 🟢  **Aprender Automation**: es un plus contar con al menos un poco de conocimiento en automatización de pruebas, ya que es una de las skills que más se piden en las ofertas laborales. 
