@@ -240,7 +240,7 @@ Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en
 
 Dejo un **curso gratis de Jira**:
 
-- [Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp)
+- [Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp) - **YouTube**
 
 
 
