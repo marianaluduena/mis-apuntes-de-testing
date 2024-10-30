@@ -26,7 +26,7 @@
 - [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester-)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad-)
-- [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito----)
+- [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito---)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
 
   
