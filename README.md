@@ -83,7 +83,6 @@ Poco a poco iré agregando más preguntas de entrevista.
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1eydEyPM2PXwB2wbCuzdjYwhH8IXObgpD/view?usp=drive_link)
   
-- ### 📁[¿Cuáles son los Tipos de Testing?]() (Próximamente 🛠️)
 
 
 ....................................................
@@ -155,6 +154,11 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [Introducción al Testing de Software](Https://Nadiacavalleri.Com.Ar/Courses/Introduccion-Al-Testing-De-Software?Ref=96740159) - **Nadia Cavalleri (Incluye actividades y autoevaluación)**
 
+- [Curso de Tester de Software](https://edutin.com/curso-de-tester) - **Gratis**
+
+- [Capacitaciones en Testing](https://qarmy.ar/capacitaciones/)  - **Gratis**
+
+  
 ....................................................
 
 ### Programación para Testers 👩‍💻:
