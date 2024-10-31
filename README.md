@@ -264,7 +264,7 @@ Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés
 ## Diccionario 📖
 
 Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT. Voy a ir agregando las letras faltantes a medida que vaya sumando términos.
-
+[Diccionario QA](https://docs.google.com/document/d/1Eb6ZiOqrK8tXyZb7SPqbpYoO1uyyYoN4GhkDHpDkoWk/edit?usp=sharing)
 
 **A**
 
