@@ -112,6 +112,9 @@ Les dejo el Roadmap de aprendizaje del Testing.
 
 Dejo una lista de los canales de **Youtube** de Testing que sigo.
 
+
+
+
 🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, **da tips para entrevistas** de trabajo,  **charlas** y **cuenta sus experiencias**. Estoy aprendiendo un montón de ella!
 Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Testing**, que **sirve un montón para practicar ejercicios que podrían surgir en una entrevista de trabajo técnica.**
 
@@ -224,6 +227,8 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
 
+
+
 - [Open Cart Abstracta](http://opencart.abstracta.us/index.php?route=common/home) - **Es un sandbox gratuito**
 
 - [Automation Excercise](https://www.automationexercise.com/) - **Web con Casos de Prueba y lista de API's para practicar Atomation Testing**
@@ -241,6 +246,8 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
 Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
+
+
 
 
 🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction).
@@ -280,6 +287,8 @@ En el documento adjunto van a encontrar una lista de términos técnicos en ingl
 
 A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en mi vida cotidiana, sin estar practicando testing. A veces los Bugs están delante nuestro!
 
+
+
 ### Bugs Funcionales:
 
 - [Lista de impuestos municipales que no se muestra](https://drive.google.com/file/d/1hLyYqztAyDIiYdNOrxFJT6fhXcS3qI4t/view?usp=drive_link)
@@ -298,7 +307,11 @@ A modo de ejemplo les dejo una lista de Bugs que encontré en sitios que uso en 
 
 ## Invitame un cafecito <a href="https://www.animatedimages.org/cat-cups-676.htm"> <img src="https://www.animatedimages.org/data/media/676/animated-cup-image-0012.gif" border="0" alt="animated-cup-image-0012" /> </a>💕 
 
+
+
 Si el material que subo les resultó útil y quieren invitarme un cafecito bienvenido sea! Son pequeños gestos que para mí valen y motivan mucho! 💓💓💓
+
+
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mariana-luduena)
 
@@ -311,6 +324,8 @@ Si el material que subo les resultó útil y quieren invitarme un cafecito bienv
 ### Mi LinkedIn 💻 : 
 
 - :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
+
+  
 
 ### Mi sitio web 🔎:
 
