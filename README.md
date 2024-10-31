@@ -255,7 +255,9 @@ Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en
 Dejo un **curso gratis de Jira**:
 
 - [Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp) - **YouTube**
+  
 
+....................................................
 
 
 🟡 **Inglés**: es quizá una de las principales habilidades que piden, y también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
@@ -265,9 +267,10 @@ Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés
 - [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
 
 
-
+....................................................
 
 🟢  **Aprender Automation**: es un plus contar con al menos un poco de conocimiento en automatización de pruebas, ya que es una de las skills que más se piden en las ofertas laborales. 
+
 
 ....................................................
 
