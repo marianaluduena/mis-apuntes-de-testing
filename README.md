@@ -235,7 +235,7 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 - Para ver más sitios de práctica 👉: [Ministry of Testing](https://www.ministryoftesting.com/articles/websites-to-practice-testing) - **Incluye API Testing, Performance, Mobile, etc**
   
-- [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/comunidad/3l6l6) - **Free Range Testers**
+- [El Dojo - Prácticas intensivas de Testing y Automation](https://www.freerangetesters.com/dojo) - **Free Range Testers**
   
 
 ....................................................
