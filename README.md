@@ -82,7 +82,7 @@ Acá van a encontrar preguntas generales no técnicas sobre temas básicos / con
 Poco a poco iré agregando más preguntas de entrevista.
 
 
-- ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1eydEyPM2PXwB2wbCuzdjYwhH8IXObgpD/view?usp=drive_link)
+- ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=drive_link)
   
 
 
@@ -131,8 +131,8 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
 
 ....................................................
  
-🔴[QArmy](https://www.youtube.com/@QARMY-UC): en su canal hay temas varios sobre **introducción al testing**, **casos de prueba**, **estrategias de testing**, etc.
-
+🔴[QARMY](https://www.youtube.com/@QARMY-UC): en su canal hay temas varios sobre **introducción al testing**, **casos de prueba**, **estrategias de testing**, etc.
+Su web Underc0de tiene foro, blog y recursos muy útiles: [Underc0de](https://underc0de.org/)
 ....................................................
  
 
