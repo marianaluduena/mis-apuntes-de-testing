@@ -37,7 +37,7 @@
   
 - En los resúmenes van a encontrar temas como **Fundamentos del Testing** y **Preguntas de Entrevista**.
 
-- Éste repo está dirigido especialmente a **principiantes**, **juniors** y **trainees**, pero **también para quienes ya tienen un poco de experiencia** y quieren seguir avanzando y/o pasarse a **Automation**.
+- Éste espacio está dirigido especialmente a **principiantes**, **juniors** y **trainees**, pero **también para quienes ya tienen un poco de experiencia** y quieren seguir avanzando y/o pasarse a **Automation**.
 
 
 - Por último, siéntanse libres de compartir las guías y éste repo! 😉
