@@ -133,6 +133,8 @@ Además, todos los viernes Nadia sube un juego a **Instagram**: el **Game Of Tes
  
 🔴[QARMY](https://www.youtube.com/@QARMY-UC): en su canal hay temas varios sobre **introducción al testing**, **casos de prueba**, **estrategias de testing**, etc.
 Su web Underc0de tiene foro, blog y recursos muy útiles: [Underc0de](https://underc0de.org/)
+
+
 ....................................................
  
 
