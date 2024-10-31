@@ -33,7 +33,7 @@
 
 ## Sobre este repo
 
-- **Mis Apuntes de Testing** es una lista de resúmenes y recursos para aprender **Testing de Software**. Empezó con la idea de sólo guardar los resúmenes que voy subiendo a **LinkedIn**, pero decidí incluir material adicional como **Canales de Youtube**, **Cursos**, **Sitios para practicar Testing** y **Ejemplos de Bugs** que encontré por casualidad en sitios que uso en mi día a día.
+- **Mis Apuntes de Testing** es una lista de resúmenes y recursos para aprender **Testing de Software**. Empezó con la idea de sólo guardar los resúmenes que voy subiendo a **LinkedIn**, pero decidí incluir material adicional como **Canales de Youtube**, **Cursos**, **Sitios para practicar Testing** y **Ejemplos de Bugs** que encontré por casualidad en sitios que uso en mi día a día, y aportarle más valor al repo ♥️.
   
 - En los resúmenes van a encontrar temas como **Fundamentos del Testing** y **Preguntas de Entrevista**.
 
@@ -263,69 +263,12 @@ Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés
 
 ## Diccionario 📖
 
-Esta sección es una lista de términos técnicos en inglés usandos en el rubro IT. Voy a ir agregando las letras faltantes a medida que vaya sumando términos.
+En el documento adjunto van a encontrar una lista de términos técnicos en inglés usandos en el rubro IT. Voy a ir agregando las letras faltantes a medida que vaya sumando términos 👇:
+
+
 [Diccionario QA](https://docs.google.com/document/d/1Eb6ZiOqrK8tXyZb7SPqbpYoO1uyyYoN4GhkDHpDkoWk/edit?usp=sharing)
 
-**A**
 
-- **AC**: **Acceptance Criteria** (**Criterios de aceptación**) es el conjunto de condiciones dadas para que un software funcione correctamente, según lo establecido por el cliente.
-
-- **Agile Methodologies (Metodologías ágiles)**: es una metodología de trabajo que implica dividir el proyecto asignado en pequeñas etapas de tiempo (**sprints**), priorizando la revisión periódica de los progresos hechos y la mejora continua. Más info [acá](https://www.atlassian.com/es/agile)
-
-
-**B**
-
-- **BA**: **Business Analyst** se encarga de recopilar e interpretar datos procedentes de diversas fuentes y los utiliza para mejorar los sistemas y procesos de la empresa. Más info [acá](https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-business-analyst)
-
-- **Bug**: Defecto en un sistema que hace que el Software no funcione de la manera esperada. Los Bugs pueden encontrarse en el código, pero pueden estar en otras partes, como en el Hardware, una mala configuración, etc. 
-
-
-**D**
-
-- **Dev**: Developer (Desarrollador)
-
-
-**K**
-
-- **Kanban**: modelo de metodologia ágil basada sólo en tarjetas. Se diferenciade Scrum al no haber sprints.
-
-- **KT**: **Knowleadge Transfer** (**Transferencia de Conocimientos**) es la transferencia de conocimientos, habilidades y experiencias de alguien (puede ser un equipo de la organización / empresa, o alguien del mismo equipo con mayor experiencia) a una o más personas. También puede ser explicarle al otro el proyecto en el que se está trabajando para conocerlo mejor, en qué consiste, etc.
-
-
-**P**
-
-  
-- **PM**: **Product Manager** (**Gerente de Producto**) crea estrategias para construir productos, supervisa la ejecución de estos productos y da seguimiento a la reacción de los usuarios ante el producto. Ver más info [acá](https://blog.hubspot.es/service/product-manager#que-es)
-
-- **PO**: **Product Owner** (**Propietario del Producto**) es un rol dentro de la metodología **Scrum**. Asume el rol del cliente al que representa, tiene contacto directo con él, escribe las historias de usuario y prepara el **backlog**. Ver más info [acá](https://asana.com/es/resources/product-owner)
-
-**Q**
-
-- **QA**: **Quality Assurance** (**Asegurador de Calidad**) es el especialista en probar un sistema para asegurarse de que funcione correctamente de acuerdo a los requerimientos y criterios de aceptación. En caso de encontrar algún defecto, el **QA** lo reporta, hace seguimiento del Bug hasta que sea corregido por el equipo de desarrollo y, una vez corregido, lo vuelve a testear para asegurarse de que el defecto haya sido corregido y no se haya roto alguna otra parte del Software.
-
-**S**
-
-
-- **Scope**: Sección o secciones del software determinadas donde se deberán enfocar o no las pruebas. Pueden ser In Scope (donde se debe testear) y Out of Scope (donde NO se debe testear).
-
-- **Scrum**: modelo de metodologia ágil que se guía por sprints (períodos cortos de tiempo, normalmente 2 semanas o un mes) para completar las tareas asignadas a ése tiempo.
-
-- **Sprint**: período corto de tiempo establecido para compeltar determinadas tareas asignadas de un proyecto.
-
-
-**T**
-
-- **TAE**: **Test Automation Tester** es un **QA** especializado en automatizar las pruebas.
-
-
-**U**
-
-- **UI/UX**: Diseñador de interfaz de usuario.
-
-
-**W**
-
- - **Workflow**: **Flujo de Trabajo**
 
 ....................................................
 
