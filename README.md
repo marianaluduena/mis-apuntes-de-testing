@@ -64,7 +64,8 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 
 ## Pruebas de Software: Fundamentos 👨‍🎓
 
-En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**
+En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**.
+Los links a los ejemplos y webs incluidos en las guías están funcionales! 😉
 
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
