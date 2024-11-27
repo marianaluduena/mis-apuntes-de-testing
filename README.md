@@ -84,7 +84,7 @@ Poco a poco iré agregando más preguntas de entrevista.
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=drive_link)
   
-
+- ### 📁[¿Cómo se clasifican las pruebas?](https://drive.google.com/file/d/1v6FOhG12ooVeiqgKJuCGDGxZAUjTs_KM/view?usp=sharing)
 
 ....................................................
 
