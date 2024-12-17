@@ -243,7 +243,7 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 ## ¿Cómo ganar experiencia si soy Trainee o Junior? Igrowker 🌱
 
-**[Igrowker](https://igrowker.com)** es un entrenamiento IT **gratuito** orientado a perfiles **Junior** y **Trainee**, su misión es tratar de facilitarle un poco el camino a profesionales con poca o ninguna experiencia para que al postularse a una oferta de trabajo puedan aumentar las chances de conseguir entrevistas. 
+**[Igrowker](https://igrowker.com)** es un entrenamiento IT **gratuito** orientado a perfiles **Junior** y **Trainee**, **su misión** es tratar de facilitarle un poco el camino a profesionales con poca o ninguna experiencia para que al postularse a una oferta de trabajo puedan **aumentar las chances de conseguir entrevistas.** 
 
 Demanda mucho compromiso y esfuerzo, pero vale la pena participar al menos una vez **(¡puede hacerse tantas veces como quieras!)**
 
