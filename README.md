@@ -23,6 +23,7 @@
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo-)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing-)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing-)
+- [¿Cómo ganar experiencia si soy Trainee o Junior? Igrowker]()
 - [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester-)
 - [Diccionario](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#diccionario-)
 - [Bugs descubiertos por casualidad](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#bugs-descubiertos-por-casualidad-)
@@ -240,6 +241,18 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 ....................................................
 
+## ¿Cómo ganar experiencia si soy Trainee o Junior? Igrowker 🌱
+
+**[Igrowker](https://igrowker.com)** es un entrenamiento IT **gratuito** orientado a perfiles **Junior** y **Trainee**, su misión es tratar de facilitarle un poco el camino a profesionales con poca o ninguna experiencia para que al postularse a una oferta de trabajo puedan aumentar las chances de conseguir entrevistas. 
+
+Demanda mucho compromiso y esfuerzo, pero vale la pena participar al menos una vez **(¡puede hacerse tantas veces como quieras!)**
+
+Acá cuento cómo fue mi experiencia como **QA** en el primer entrenamiento que tomé (el último del 2024) 👇:
+
+- [Primer entrenamiento](https://drive.google.com/file/d/1a9mk0nv8cotE_bJgnnfPUX8jQAg1mvzo/view?usp=sharing)
+
+
+....................................................
 
 ## ¿Qué más se necesita para ser Tester? 👇
 
