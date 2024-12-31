@@ -86,6 +86,8 @@ Poco a poco iré agregando más preguntas de entrevista.
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=drive_link)
   
 - ### 📁[¿Qué es el **STLC**?](https://drive.google.com/file/d/1eZp_rubH9SZ7B4ltskjuSk_hEXqCXdES/view?usp=drive_link)
+
+- ### 📁[¿Cómo se clasifican las Pruebas?](https://drive.google.com/file/d/1CKCZqIj1LQAcDmkKu9HgIM5QpgNHinKb/view?usp=drive_link)
   
 ....................................................
 
