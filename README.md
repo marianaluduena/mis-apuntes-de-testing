@@ -73,7 +73,7 @@ Hay links a ejemplos y webs dinámicos incluidos en algunas guías! 😉
   
 - ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?](https://drive.google.com/file/d/13NcrqbY2nEH9VoPeZzOsS8eCvtOHzbXN/view?usp=drive_link)
 
-- ### 📁[¿Qué es un Falso Positivo y un Falso Negativo?](https://drive.google.com/file/d/1-P4E9H6g6J1kH50HhtDR22uX0BJzM-rp/view?usp=drive_link)
+- ### 📁[¿Qué es un Falso Positivo y un Falso Negativo?](https://drive.google.com/file/d/1p8skCnAwHd58jR57bNYMh5PyUZyGPPj_/view?usp=drive_link)
 
 ....................................................
 
