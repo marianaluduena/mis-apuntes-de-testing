@@ -180,7 +180,9 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 - [Programación y trabajo con código para Testers](https://www.freerangetesters.com/programacion-y-trabajo-con-codigo-para-testers/3l6l6) - **Free Range Testers**
 
-- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis**
+- [JavaScript Básico para Testers](https://testertestarudo.com/course/javascript-basico-para-testers/) - **Gratis - Tester Testarudo**
+  
+- [Programación Orientada a Objetos para Testers con JavaScript](https://testertestarudo.com/course/programacion-orientada-a-objetos-para-testers/) - **Gratis - Tester Testarudo**
   
 
 ....................................................
@@ -194,9 +196,9 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
  ### API Testing ⚙️:
 
- - [Curso Introductorio de Postman](https://testertestarudo.com/course/curso-introductorio-de-postman/) - **Gratis**
+ - [Curso Introductorio de Postman](https://testertestarudo.com/course/curso-introductorio-de-postman/) - **Gratis - Tester Testarudo**
 
- - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis**
+ - [Curso Básico de API Testing en Python](https://testertestarudo.com/course/curso-basico-de-api-testing-en-python/) - **Gratis - Tester Testarudo**
 
 - [API Automation con Java y Rest Assured](https://www.freerangetesters.com/api-automation-con-java-y-rest-assured/3l6l6) - **Free Range Testers**
 
@@ -204,9 +206,11 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 
 ### Automation ⚛️:
 
+- [Curso Cypress Básico con JavaScript](https://testertestarudo.com/course/curso-basico-de-cypress/) - **Gratis - Tester Testarudo**
+
 - [Cypress desde 0](https://www.youtube.com/watch?v=GINC8zpjMZ8) - **YouTube**
 
-- [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis**
+- [Curso Básico de Atomatización de Pruebas Web con Playwright](https://testertestarudo.com/course/curso-basico-de-automatizacion-de-pruebas-web-con-playwright/) - **Gratis - Tester Testarudo**
 
 - [E2E Testing con Cypress y JavaScript](https://www.freerangetesters.com/e2e-testing-con-cypress-y-javascript/3l6l6) - **Free Range Testers**
 
