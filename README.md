@@ -88,6 +88,8 @@ Poco a poco iré agregando más preguntas de entrevista.
 - ### 📁[¿Qué es el **STLC**?](https://drive.google.com/file/d/1eZp_rubH9SZ7B4ltskjuSk_hEXqCXdES/view?usp=drive_link)
 
 - ### 📁[¿Cómo se clasifican las Pruebas?](https://drive.google.com/file/d/1CKCZqIj1LQAcDmkKu9HgIM5QpgNHinKb/view?usp=drive_link)
+
+- ### 📁[¿Qué son las Pruebas de Caja Negra?](https://drive.google.com/file/d/1tWAa9mC1OFGOn3ePVSYyOYx0sOgSqaaQ/view?usp=drive_link)
   
 ....................................................
 
