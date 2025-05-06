@@ -249,15 +249,17 @@ Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un cu
 
 ....................................................
 
-## ¿Cómo ganar experiencia si soy Trainee o Junior? Igrowker 🌱
+## ¿Cómo ganar experiencia si soy Trainee o Junior? 🌱
 
 **[Igrowker](https://igrowker.com)** es un entrenamiento IT **gratuito** orientado a perfiles **Junior** y **Trainee**, **su misión** es tratar de facilitarle un poco el camino a profesionales con poca o ninguna experiencia para que al postularse a una oferta de trabajo puedan **aumentar las chances de conseguir entrevistas.** 
 
 Demanda mucho compromiso y esfuerzo, pero vale la pena participar al menos una vez **(¡puede hacerse tantas veces como quieras!)**
 
-Acá cuento cómo fue mi experiencia como **QA** en el primer entrenamiento que tomé (el último del 2024) 👇:
+Acá cuento cómo fueron mis experiencias como **QA** en los entrenamientos que hice 👇:
 
-- [Primer entrenamiento](https://drive.google.com/file/d/1a9mk0nv8cotE_bJgnnfPUX8jQAg1mvzo/view?usp=sharing)
+- [Primer entrenamiento: Wander - Dic 2024](https://drive.google.com/file/d/1a9mk0nv8cotE_bJgnnfPUX8jQAg1mvzo/view?usp=sharing)
+
+- [Segundo entrenamiento: Beetrack - Abr 2025](https://drive.google.com/file/d/1JVI_iX6dzLFK0vIV0bHiLxELtof79HsN/view?usp=drive_link)
 
 
 ....................................................
