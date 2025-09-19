@@ -64,7 +64,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 
 ### Mi LinkedIn 💻 : 
 
-- :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/)
+- :mailbox: Seguime en **LinkedIn**: [Mariana Ludueña](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/)
 
   
 
