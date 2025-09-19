@@ -91,7 +91,7 @@ Hay links a ejemplos y webs dinámicos incluidos en algunas guías! 😉
 ----------------------------
 
 
-## Preguntas de Entrevista Básicas de Testing (No Técnicas) 👩‍💼
+## Preguntas de Entrevista Básicas de Testing 👩‍💼
 
 Acá van a encontrar preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
 Poco a poco iré agregando más preguntas de entrevista.
