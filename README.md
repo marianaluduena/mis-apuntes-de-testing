@@ -35,7 +35,7 @@
   
 - En los resúmenes van a encontrar temas como **Fundamentos del Testing** y **Preguntas de Entrevista**.
 
-- Éste espacio está dirigido a todo tipo de perfiles: **principiantes**, **juniors**, **trainees**, y **a quienes ya tienen un poco de experiencia** y quieren seguir avanzando y/o pasarse a **Automation**.
+- Éste espacio está dirigido a todo tipo de perfiles: **trainees**, **juniors**, y **a quienes ya tienen un poco de experiencia** y quieren seguir avanzando y/o pasarse a **Automation**.
 
 
 - Por último, siéntanse libres de compartir las guías y éste repo! 😉
@@ -64,7 +64,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 
 ### Mi LinkedIn 💻 : 
 
-- :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer)
+- :mailbox: Seguime en **LinkedIn**: [![Linkedin Badge](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/)
 
   
 
@@ -105,6 +105,8 @@ Poco a poco iré agregando más preguntas de entrevista.
 
 - ### 📁[¿Qué son las Pruebas de Caja Negra?](https://drive.google.com/file/d/1tWAa9mC1OFGOn3ePVSYyOYx0sOgSqaaQ/view?usp=drive_link)
   
+- ### 📁[¿Qué tipos de Pruebas conocés?](https://drive.google.com/file/d/1Tx7Ei2BzIW3OJntm2aiAGfaR2R2kZ9KQ/view?usp=sharing)
+  
 
 ----------------------------
 
@@ -138,8 +140,8 @@ Dejo una lista de los canales de **Youtube** de Testing que sigo.
 
 
 
-🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, **da tips para entrevistas** de trabajo,  **charlas** y **cuenta sus experiencias**. Estoy aprendiendo un montón de ella!
-
+🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, **da tips para entrevistas** de trabajo,  **charlas** y **cuenta sus 
+experiencias**. Estoy aprendiendo un montón de ella!
 
 
  🟡 [Upex Galaxy](https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
