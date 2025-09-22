@@ -144,6 +144,9 @@ Dejo una lista de los canales de **Youtube** de Testing que sigo.
 experiencias**. Estoy aprendiendo un montón de ella!
 
 
+💡[Atenea Conocimientos](https://www.youtube.com/@AteneaConocimientos): **Juan Torres** es **QA Automation Architect** con más 11 años de experiencia diseñando frameworks de Playwright, Cypress y Synpress, montando pipelines CI/CD robustos, **Youtuber** e **instructor en Atenea Conocimientos**, una comunidad pensada para aprender **automation testing**. Está creciendo poco a poco, y recientemente Juan agregó la posibilidad de **practicar testing encontrando bugs en el sitio. Más info al respecto abajo en la sección "¿Dónde practicar testing?"**
+
+
  🟡 [Upex Galaxy](https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
  Para los que están empezando de 0 y sin conocimientos previos recomiendo la playlist [Testing al Grano](https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--) para empezar a tener una idea general de cómo es el día a día de un tester y cómo trabaja.
 
@@ -240,6 +243,7 @@ Ya sea tanto **Testing Manual** como **Automation**, acá les dejo una lista de 
 Practicar lo aprendido es fundamental y lo que le da sentido a haber hecho un curso! Es por eso que les dejo acá una lista de recursos para poner en práctica todo el conocimiento adquirido:
 
 
+- [Atenea Conocimientos](https://ateneaconocimientos.com/): **para participar seguí las instrucciones de éste post de LinkedIn: [Instrucciones](https://www.linkedin.com/feed/update/urn:li:activity:7375891666139779072/)**
 
 - [Open Cart Abstracta](http://opencart.abstracta.us/index.php?route=common/home) - **Es un sandbox gratuito**
 
@@ -284,7 +288,13 @@ En mi caso yo caí al proyecto las 3 últimas semanas, pero aprendí un montón.
 Existen otras herramientas y habilidades requeridas para poder destacar en entrevistas de trabajo, o conseguir mejores oportunidades en caso de ya estar trabajando en Testing.
 Dejo acá algunas de las skills que más se piden en las ofertas laborales, y en base a mi experiencia:
 
+🟢  **Aprender Automation**: hoy en día **saber automation ya no es un plus, es un must**. Inluso aunque te quieras postular para un puesto de **QA Manual**, lo más probable es que tarde o temprano encuentres en la descripción de la oferta laboral contar con al menos un poco de conocimiento al respecto, ya que es una de las skills que más se piden. Y si todavía no tenés conocimientos en programación, te recomiendo empezar por **Javascript**. No es necesario que seas un experto programando, pero sí **conocer las bases de la programación, porque te va a hacer más fácil después** poder interpretar la sintaxis de **Playwright**, **Cypress** o cualquier otro framework de automation cuando empieces a aprender. 
 
+🟡 **Inglés**: es quizá una de las principales habilidades que piden, y también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
+Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: 
+
+- [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
+  
 
 🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction).
 
@@ -293,16 +303,8 @@ Dejo un **curso gratis de Jira**:
 - [Curso de Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp) - **YouTube**
   
 
-
-🟡 **Inglés**: es quizá una de las principales habilidades que piden, y también la que abre más puertas a mejores oportunidades, mejores sueldos y poder migrar si así se quiere. Por eso es muy importante aprender tanto **inglés** como se pueda.
-
-Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés**: 
-
-- [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
-
-
-🟢  **Aprender Automation**: hoy en día **es un must** contar con al menos un poco de conocimiento en automatización de pruebas, ya que es una de las skills que más se piden en las ofertas laborales. 
-
+🔵**Muchas ganas de aprender!**: sí, exactamente eso, **tener curiosidad** y **estar dispuesto a aprender cosas nuevas en forma constante** son 2 **cualidades muy valiosas**. Estar al tanto de las **tendencias** mediante **blogs**, **comunidades de testing** o **asistir a eventos o webminars** va a enriquecer mucho tus conocimientos como **tester** o **futuro tester**, pudiendo hacer **networking y aprender de la experiencia de otros**. 
+  
 
 ----------------------------
 
