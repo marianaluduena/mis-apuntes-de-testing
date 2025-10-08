@@ -19,7 +19,7 @@
 - [Sobre mí](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#sobre-m%C3%AD-)
 - [Contacto](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#contacto-)
 - [Pruebas de Software: Fundamentos](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#pruebas-de-software-fundamentos-)
-- [Preguntas de Entrevista Básicas de Testing](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing)
+- [Preguntas de Entrevista Básicas de Testing](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#preguntas-de-entrevista-b%C3%A1sicas-de-testing-%E2%80%8D)
 - [Ruta de Aprendizaje QA](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#ruta-de-aprendizaje-qa)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo-)
 - [¿Dónde aprender Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-aprender-testing-)
@@ -93,8 +93,8 @@ Hay links a ejemplos y webs dinámicos incluidos en algunas guías! 😉
 
 ## Preguntas de Entrevista Básicas de Testing 👩‍💼
 
-Acá van a encontrar preguntas generales no técnicas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral.
-Poco a poco iré agregando más preguntas de entrevista.
+Acá van a encontrar preguntas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral. Algunas de ellas me las hicieron en entrevistas reales.
+
 
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=drive_link)
