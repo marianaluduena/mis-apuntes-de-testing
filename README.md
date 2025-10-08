@@ -107,6 +107,8 @@ Poco a poco iré agregando más preguntas de entrevista.
   
 - ### 📁[¿Qué tipos de Pruebas conocés?](https://drive.google.com/file/d/1Tx7Ei2BzIW3OJntm2aiAGfaR2R2kZ9KQ/view?usp=sharing)
   
+- ### 📁[¿Cómo te llevás con el inglés?](https://drive.google.com/file/d/1muhKlgRtCwEAQgWTT_nQo9tpJQGRcpps/view?usp=drive_link)
+  
 
 ----------------------------
 
