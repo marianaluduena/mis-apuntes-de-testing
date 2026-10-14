@@ -47,7 +47,7 @@
   
 ### Mi Portfolio 🔎:
 
-- **[Conocé mi trabajo acá](https://drive.google.com/file/d/1otGRR2n4c7Bg6on0l-gs3nllrKd74y6B/view?usp=drive_link)**
+- **[Conocé mi trabajo acá](https://drive.google.com/file/d/1EASWQWpUKP37UEUVc2zBMPZfKU3Rrvxk/view?usp=sharing)**
 
 
 ----------------------------
