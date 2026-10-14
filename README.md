@@ -68,9 +68,9 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 
   
 
-### Mi sitio web 🔎:
+### Mi Portfolio 🔎:
 
-- Click [acá](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) para visitar mi sitio web de **QA** .
+- Click [acá](https://drive.google.com/file/d/1otGRR2n4c7Bg6on0l-gs3nllrKd74y6B/view?usp=drive_link) para visitar mi sitio web de **QA** .
 
 
 ----------------------------
