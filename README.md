@@ -22,7 +22,6 @@
 - [Ruta de Aprendizaje QA](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#ruta-de-aprendizaje-qa)
 - [Canales de Testing que recomiendo](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#canales-de-testing-que-recomiendo-)
 - [¿Dónde practicar Testing?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#d%C3%B3nde-practicar-testing-)
-- [¿Cómo ganar experiencia si soy Trainee o Junior?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#c%C3%B3mo-ganar-experiencia-si-soy-trainee-o-junior)
 - [¿Qué más se necesita para ser Tester?](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#qu%C3%A9-m%C3%A1s-se-necesita-para-ser-tester-)
 - [Invitame un cafecito](https://github.com/marianaluduena/mis-apuntes-de-testing/blob/main/README.md#invitame-un-cafecito---)
 
@@ -46,7 +45,6 @@
 - **[Mariana Ludueña](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/)**
 
   
-
 ### Mi Portfolio 🔎:
 
 - **[Conocé mi trabajo acá](https://drive.google.com/file/d/1otGRR2n4c7Bg6on0l-gs3nllrKd74y6B/view?usp=drive_link)**
@@ -55,9 +53,6 @@
 ----------------------------
 
 ## Pruebas de Software: Fundamentos 👨‍🎓
-
-En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales son preguntas de examen para la certificación del **ISTQB**.
-Hay links a ejemplos y webs dinámicos incluidos en algunas guías! 😉
 
 
 - ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/16EF3hn-7rmK4ZTyMQoQbxHV_7SmG4Imi/view?usp=sharing)
@@ -71,9 +66,6 @@ Hay links a ejemplos y webs dinámicos incluidos en algunas guías! 😉
 
 
 ## Preguntas de Entrevista Básicas de Testing 👩‍💼
-
-Acá van a encontrar preguntas sobre temas básicos / conceptos de Testing que pueden surgir en una entrevista laboral. Algunas de ellas me las hicieron en entrevistas reales.
-
 
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=sharing)
@@ -91,9 +83,6 @@ Acá van a encontrar preguntas sobre temas básicos / conceptos de Testing que p
 ## Ruta de Aprendizaje QA 
 
 
-Les dejo el Roadmap de aprendizaje del Testing.
-
-
 <div align="center">
 
 <div>
@@ -109,17 +98,15 @@ Les dejo el Roadmap de aprendizaje del Testing.
 
 ## Canales de Testing que recomiendo 📺
 
-Dejo una lista de los canales de **Youtube** de Testing que sigo.
-
 
 🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Patricio Miner** es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. 
 
 
 🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, **da tips para entrevistas** de trabajo,  **charlas** y **cuenta sus 
-experiencias**. Estoy aprendiendo un montón de ella!
+experiencias**. Aprendo un montón de ella!
 
 
-💡[Atenea Conocimientos](https://www.youtube.com/@AteneaConocimientos): **Juan Torres** es **QA Automation Architect** con más 11 años de experiencia diseñando frameworks de Playwright, Cypress y Synpress, montando pipelines CI/CD robustos, **Youtuber** e **instructor en Atenea Conocimientos**, una comunidad pensada para aprender **automation testing**. Está creciendo poco a poco, y recientemente Juan agregó la posibilidad de **practicar testing encontrando bugs en el sitio. Más info al respecto abajo en la sección "¿Dónde practicar testing?"**
+💡[Atenea Conocimientos](https://www.youtube.com/@AteneaConocimientos): **Juan Torres** es **QA Automation Architect** con más 11 años de experiencia diseñando frameworks de Playwright, Cypress y Synpress, montando pipelines CI/CD robustos, **Youtuber** e **instructor en Atenea Conocimientos**, una comunidad pensada para aprender **automation testing**.
 
 
  🟡 [Upex Galaxy](https://www.youtube.com/@Saitest/featured): acá van a encontrar muchos tutoriales prácticos sobre varios temas relacionados al Testing. 
@@ -147,12 +134,6 @@ Su web Underc0de tiene foro, blog y recursos muy útiles: [Underc0de](https://un
 
 - Más sitios de práctica 👉: [Ministry of Testing](https://www.ministryoftesting.com/articles/websites-to-practice-testing) - **Incluye API Testing, Performance, Mobile, etc**
   
-
-----------------------------
-
-## ¿Cómo ganar experiencia si soy Trainee o Junior? 🌱
-
-
 ----------------------------
 
 
@@ -164,7 +145,7 @@ Les dejo un video de **Nadia Cavalleri** donde da tips para mejorar el **inglés
 - [Los Tips más útiles para mejorar y practicar tu Inglés](https://www.youtube.com/watch?v=UVXqZmvBGc0)
   
 
-🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. Más info [acá](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction).
+🟠 **Jira**: es una herramienta de gestión de proyectos ágiles en los equipos de trabajo. Ayuda a organizar tareas a modo de **Workflow** (flujo de trabajo) para poder trabajar en forma fluida y organizada. 
 
 Dejo un **curso gratis de Jira**:
 
