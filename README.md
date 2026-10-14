@@ -43,7 +43,7 @@
 
 ### Mi LinkedIn 💻 : 
 
-- :mailbox: Seguime en **LinkedIn**: [Mariana Ludueña](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/)
+- **[Mariana Ludueña](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/)**
 
   
 
@@ -60,11 +60,11 @@ En esta sección se tratan los **Fundamentos del Testing**, muchos de los cuales
 Hay links a ejemplos y webs dinámicos incluidos en algunas guías! 😉
 
 
-- ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/1SWBUBQ0vGIRWSGCKkbHTSgkTqfYlwykZ/view?usp=drive_link)
+- ### 📁[¿Qué es Verificar y Validar?](https://drive.google.com/file/d/16EF3hn-7rmK4ZTyMQoQbxHV_7SmG4Imi/view?usp=sharing)
   
 - ### 📁[Error, Defecto y Falla: ¿Cuál es la diferencia?](https://drive.google.com/file/d/13NcrqbY2nEH9VoPeZzOsS8eCvtOHzbXN/view?usp=drive_link)
 
-- ### 📁[¿Qué es un Falso Positivo y un Falso Negativo?](https://drive.google.com/file/d/1p8skCnAwHd58jR57bNYMh5PyUZyGPPj_/view?usp=drive_link)
+- ### 📁[¿Qué es un Falso Positivo y un Falso Negativo?](https://drive.google.com/file/d/1kR6gk8Wb7RuJTmD7vRiarlNbVMfaweJh/view?usp=drive_link)
 
 
 ----------------------------
@@ -76,9 +76,7 @@ Acá van a encontrar preguntas sobre temas básicos / conceptos de Testing que p
 
 
 
-- ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=drive_link)
-  
-- ### 📁[¿Qué es el **STLC**?](https://drive.google.com/file/d/1eZp_rubH9SZ7B4ltskjuSk_hEXqCXdES/view?usp=drive_link)
+- ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=sharing)
 
 - ### 📁[¿Cómo se clasifican las Pruebas?](https://drive.google.com/file/d/1CKCZqIj1LQAcDmkKu9HgIM5QpgNHinKb/view?usp=drive_link)
 
@@ -117,8 +115,6 @@ Dejo una lista de los canales de **Youtube** de Testing que sigo.
 
 
 🔵 [Free Range Tester](https://www.youtube.com/@FreeRangeTesters): **Patricio Miner** es **Consultor**, **Ingeniero especializado en Automation**, **Coach** y **Youtuber**. Aunque está más orientado a **Automation Testing** también toca temas de **Manual Testing**. 
-**Tiene su propia Academia con cursos que van desde nivel principiante a más avanzados** 👉:  [Free Range Testers](https://www.freerangetesters.com/a/3l6l6). 
-
 
 
 🟣 [Nadia Cavalleri](https://www.youtube.com/@NadiaCavalleri): **Ingeniera de Software**, **QA**, **Psicóloga** y **Youtuber**. Explica conceptos de Testing en forma muy clara y con ejemplos, **da tips para entrevistas** de trabajo,  **charlas** y **cuenta sus 
