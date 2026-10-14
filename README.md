@@ -78,11 +78,9 @@ Acá van a encontrar preguntas sobre temas básicos / conceptos de Testing que p
 
 - ### 📁[¿Qué son las Pruebas de Software?](https://drive.google.com/file/d/1FiHKgwJgrbwvKx1dy8Gzx5wzf1mCn92h/view?usp=sharing)
 
-- ### 📁[¿Cómo se clasifican las Pruebas?](https://drive.google.com/file/d/1CKCZqIj1LQAcDmkKu9HgIM5QpgNHinKb/view?usp=drive_link)
+- ### 📁[¿Cómo se clasifican las Pruebas?](https://drive.google.com/file/d/1DRcIv0v4g1kD6b0iy_95KqKRjX4OVern/view?usp=sharing)
 
 - ### 📁[¿Qué son las Pruebas de Caja Negra?](https://drive.google.com/file/d/1tWAa9mC1OFGOn3ePVSYyOYx0sOgSqaaQ/view?usp=drive_link)
-  
-- ### 📁[¿Qué tipos de Pruebas conocés?](https://drive.google.com/file/d/1Tx7Ei2BzIW3OJntm2aiAGfaR2R2kZ9KQ/view?usp=sharing)
   
 - ### 📁[¿Cómo te llevás con el inglés?](https://drive.google.com/file/d/1muhKlgRtCwEAQgWTT_nQo9tpJQGRcpps/view?usp=drive_link)
   
