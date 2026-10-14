@@ -70,7 +70,7 @@ Mi nombre es Mariana, soy de Argentina, y aunque tengo formación en **Programac
 
 ### Mi Portfolio 🔎:
 
-- Click [acá](https://drive.google.com/file/d/1otGRR2n4c7Bg6on0l-gs3nllrKd74y6B/view?usp=drive_link) para visitar mi sitio web de **QA** .
+- **[Conocé mi trabajo acá](https://drive.google.com/file/d/1otGRR2n4c7Bg6on0l-gs3nllrKd74y6B/view?usp=drive_link)**
 
 
 ----------------------------
